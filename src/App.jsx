@@ -94,9 +94,9 @@ const ClaimDetail = ({ claim, onClose }) => (
       </div>
     </div>
     <div style={{ marginTop: 14 }}>{(claim.tags || []).map(t => <Tag key={t} label={t} />)}</div>
-{claim._source_file && (
+{claim.pdf_url && (
   <div style={{ marginTop: 14, borderTop: "1px solid #eee", paddingTop: 14 }}>
-    <a href={`/pdfs/${claim._source_file}`} target="_blank" rel="noreferrer" style={{ fontFamily: "monospace", fontSize: 11, color: "#111", letterSpacing: "0.08em", textTransform: "uppercase", textDecoration: "none", borderBottom: "1px solid #111" }}>
+    <a href={claim.pdf_url} target="_blank" rel="noreferrer" style={{ fontFamily: "monospace", fontSize: 11, color: "#111", letterSpacing: "0.08em", textTransform: "uppercase", textDecoration: "none", borderBottom: "1px solid #111" }}>
       View Source PDF ↗
     </a>
   </div>
@@ -325,17 +325,25 @@ if (Array.isArray(claims) && claims.length > 0) {
 
   return (
     <div style={{ background: "#fff", minHeight: "100vh", color: "#111", fontFamily: "monospace" }}>
-      {/* Header */}
-      <div style={{ borderBottom: "1px solid #eee", padding: "20px 32px" }}>
-        <div style={{ fontFamily: "monospace", fontSize: 10, letterSpacing: "0.2em", color: "#bbb", textTransform: "uppercase", marginBottom: 4 }}>
-          Public Records
-          {isLive
-            ? <span style={{ marginLeft: 10, color: "#2a7", border: "1px solid #2a7", padding: "1px 6px", fontSize: 9 }}>LIVE DATA</span>
-            : <span style={{ marginLeft: 10, color: "#bbb", border: "1px solid #ddd", padding: "1px 6px", fontSize: 9 }}>SAMPLE</span>}
-        </div>
-        <h1 style={{ fontFamily: "'Georgia', serif", fontSize: 28, fontWeight: 400, color: "#111", margin: "0 0 4px", letterSpacing: "-0.02em" }}>LAPD Claims Dashboard</h1>
-        <div style={{ fontFamily: "monospace", fontSize: 10, color: "#bbb" }}>City of Los Angeles · Damage Claims Against LAPD</div>
-      </div>
+     {/* Header */}
+<div style={{ borderBottom: "1px solid #eee", padding: "20px 32px" }}>
+  <div style={{ fontFamily: "monospace", fontSize: 10, letterSpacing: "0.2em", color: "#bbb", textTransform: "uppercase", marginBottom: 4 }}>
+    Public Records
+    {isLive
+      ? <span style={{ marginLeft: 10, color: "#2a7", border: "1px solid #2a7", padding: "1px 6px", fontSize: 9 }}>LIVE DATA</span>
+      : <span style={{ marginLeft: 10, color: "#bbb", border: "1px solid #ddd", padding: "1px 6px", fontSize: 9 }}>SAMPLE</span>}
+  </div>
+  <h1 style={{ fontFamily: "'Georgia', serif", fontSize: 28, fontWeight: 400, color: "#111", margin: "0 0 4px", letterSpacing: "-0.02em" }}>Claims for damages filed against the Los Angeles Police Department</h1>
+  <div style={{ fontFamily: "monospace", fontSize: 10, color: "#bbb" }}>Search hundreds of documents by names, neighborhoods or other keywords. Last updated March 17, 2026.</div>
+  <div style={{ marginTop: 10, paddingTop: 10, borderTop: "1px solid #eee" }}>
+    <p style={{ fontFamily: "monospace", fontSize: 10, color: "#666", letterSpacing: "0.06em", marginBottom: 4, marginTop: 0 }}>
+      Source: Obtained via California Public Records Act requests · Data compiled manually by Luke Harold · Coding by Claude · The documents contain allegations; some claims may not yet have been adjudicated or otherwise setteled.
+    </p>
+    <p style={{ fontFamily: "monospace", fontSize: 10, color: "#666", letterSpacing: "0.06em", margin: 0 }}>
+      Dollar amounts shown reflect only what each claimant has requested. Actual amounts paid out, if a claim is resolved in the claimant's favor, are determined through negotiation or the legal process and may differ significantly.
+    </p>
+  </div>
+</div>
 
       <div style={{ padding: "24px 32px", maxWidth: 1100, margin: "0 auto" }}>
 
@@ -414,15 +422,6 @@ if (Array.isArray(claims) && claims.length > 0) {
               </div>
             </>
           )}
-        </div>
-
-        <div style={{ borderTop: "1px solid #eee", marginTop: 32, paddingTop: 12 }}>
-          <p style={{ fontFamily: "monospace", fontSize: 10, color: "#ccc", letterSpacing: "0.06em", marginBottom: 6 }}>
-            Source: City of Los Angeles Damage Claims · Obtained via CPRA · Data compiled manually by Luke Harold · Coding by Claude · These are allegations; claims have not been adjudicated.
-          </p>
-          <p style={{ fontFamily: "monospace", fontSize: 10, color: "#ccc", letterSpacing: "0.06em", margin: 0 }}>
-            Dollar amounts shown reflect only what each claimant has requested. Actual amounts paid out, if a claim is resolved in the claimant's favor, are determined through negotiation or the legal process and may differ significantly.
-          </p>
         </div>
       </div>
     </div>
