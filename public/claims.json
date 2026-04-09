@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-16T23:37:51.166724",
-  "total": 237,
+  "generated_at": "2026-04-09T02:54:30.929308",
+  "total": 265,
   "claims": [
     {
       "id": "C25-15559",
@@ -29,7 +29,8 @@
         "public records"
       ],
       "_source_file": "C25-15559.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C25-15559.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C25-15559.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C25-15643",
@@ -58,7 +59,8 @@
         "central-library"
       ],
       "_source_file": "C25-15643.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C25-15643.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C25-15643.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C25-15650",
@@ -87,7 +89,8 @@
         "residential"
       ],
       "_source_file": "C25-15650.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C25-15650.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C25-15650.pdf",
+      "agency": "LAPD"
     },
     {
       "id": null,
@@ -115,7 +118,8 @@
         "excessive force",
         "brutality"
       ],
-      "_source_file": "C25-15723.pdf"
+      "_source_file": "C25-15723.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C25-15724",
@@ -144,7 +148,8 @@
         "suspect apprehension"
       ],
       "_source_file": "C25-15724.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C25-15724.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C25-15724.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C25-15746",
@@ -173,7 +178,8 @@
         "window-broken"
       ],
       "_source_file": "C25-15746.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C25-15746.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C25-15746.pdf",
+      "agency": "LAPD"
     },
     {
       "id": null,
@@ -201,7 +207,8 @@
         "woodland-hills",
         "lapd"
       ],
-      "_source_file": "C25-15775.pdf"
+      "_source_file": "C25-15775.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C25-15815",
@@ -229,7 +236,8 @@
         "police search"
       ],
       "_source_file": "C25-15815.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C25-15815.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C25-15815.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C25-15832",
@@ -258,7 +266,8 @@
         "ice-protest"
       ],
       "_source_file": "C25-15832.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C25-15832.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C25-15832.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C25-15875",
@@ -287,7 +296,8 @@
         "wrongful-death"
       ],
       "_source_file": "C25-15875.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C25-15875.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C25-15875.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C25-15905",
@@ -316,7 +326,8 @@
         "excessive force"
       ],
       "_source_file": "C25-15905.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C25-15905.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C25-15905.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C25-15910",
@@ -345,7 +356,8 @@
         "criminal-record"
       ],
       "_source_file": "C25-15910.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C25-15910.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C25-15910.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C25-15916",
@@ -374,7 +386,8 @@
         "high value claim"
       ],
       "_source_file": "C25-15916.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C25-15916.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C25-15916.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C25-15918",
@@ -403,7 +416,8 @@
         "authorized entry"
       ],
       "_source_file": "C25-15918.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C25-15918.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C25-15918.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C25-15946",
@@ -432,7 +446,8 @@
         "residential"
       ],
       "_source_file": "C25-15946.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C25-15946.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C25-15946.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C25-15947",
@@ -461,7 +476,8 @@
         "long-term harassment"
       ],
       "_source_file": "C25-15947.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C25-15947.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C25-15947.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C25-15948",
@@ -490,7 +506,8 @@
         "residential"
       ],
       "_source_file": "C25-15948.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C25-15948.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C25-15948.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C25-15958",
@@ -519,7 +536,8 @@
         "no-kings-day"
       ],
       "_source_file": "C25-15958.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C25-15958.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C25-15958.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C25-15967",
@@ -548,7 +566,8 @@
         "metro-station"
       ],
       "_source_file": "C25-15967.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C25-15967.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C25-15967.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C25-15969",
@@ -561,7 +580,7 @@
       "neighborhood": null,
       "type": "False Arrest",
       "narrative": "Claimant called 911 after a physical altercation with a neighbor who used a racial slur and attacked her on her porch. Despite being the victim with video evidence, LAPD officers handcuffed her, detained her in a hot police car, and nearly arrested her while failing to arrest the actual aggressor.",
-      "omission": "Officers SILBER (#45747) and SALAS (#41135) ignored the video evidence I provided, detained me despite clear proof I was the victim, and failed to arrest the aggressor \u2014 who physically assaulted me, used a racial slur, and has a known history of harassing me.",
+      "omission": "Officers SILBER (#45747) and SALAS (#41135) ignored the video evidence I provided, detained me despite clear proof I was the victim, and failed to arrest the aggressor — who physically assaulted me, used a racial slur, and has a known history of harassing me.",
       "amount": null,
       "amountDisplay": null,
       "injuries": "Scratched by neighbor during attack; detained in handcuffs and kept in hot police car for long periods",
@@ -577,7 +596,8 @@
         "video-evidence"
       ],
       "_source_file": "C25-15969.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C25-15969.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C25-15969.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C25-15972",
@@ -606,7 +626,8 @@
         "mass-detention"
       ],
       "_source_file": "C25-15972.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C25-15972.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C25-15972.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C25-15989",
@@ -635,7 +656,8 @@
         "chase"
       ],
       "_source_file": "C25-15989.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C25-15989.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C25-15989.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C25-15990",
@@ -664,7 +686,8 @@
         "attempted-robbery"
       ],
       "_source_file": "C25-15990.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C25-15990.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C25-15990.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C25-15991",
@@ -693,7 +716,8 @@
         "home-damage"
       ],
       "_source_file": "C25-15991.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C25-15991.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C25-15991.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C25-15992",
@@ -722,7 +746,8 @@
         "emotional distress"
       ],
       "_source_file": "C25-15992.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C25-15992.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C25-15992.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C25-15998",
@@ -751,7 +776,8 @@
         "opg"
       ],
       "_source_file": "C25-15998.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C25-15998.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C25-15998.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C25-16013",
@@ -780,7 +806,8 @@
         "police inaction"
       ],
       "_source_file": "C25-16013.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C25-16013.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C25-16013.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C25-16037",
@@ -809,7 +836,8 @@
         "shrapnel"
       ],
       "_source_file": "C25-16037.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C25-16037.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C25-16037.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C25-16116",
@@ -837,7 +865,8 @@
         "civil rights"
       ],
       "_source_file": "C25-16116.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C25-16116.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C25-16116.pdf",
+      "agency": "LAPD"
     },
     {
       "id": null,
@@ -865,7 +894,8 @@
         "pedestrian",
         "guns drawn"
       ],
-      "_source_file": "C25-16150.pdf"
+      "_source_file": "C25-16150.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C25-16189",
@@ -894,7 +924,8 @@
         "leased vehicle"
       ],
       "_source_file": "C25-16189.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C25-16189.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C25-16189.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C25-16193",
@@ -923,7 +954,8 @@
         "downtown"
       ],
       "_source_file": "C25-16193.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C25-16193.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C25-16193.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C25-16197",
@@ -952,7 +984,8 @@
         "forced-entry"
       ],
       "_source_file": "C25-16197.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C25-16197.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C25-16197.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C25-16200",
@@ -980,7 +1013,8 @@
         "high-value-claim"
       ],
       "_source_file": "C25-16200.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C25-16200.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C25-16200.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C25-16201",
@@ -1008,7 +1042,8 @@
         "hybrid-battery-theft"
       ],
       "_source_file": "C25-16201.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C25-16201.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C25-16201.pdf",
+      "agency": "LAPD"
     },
     {
       "id": null,
@@ -1036,7 +1071,8 @@
         "civil rights",
         "intoxicated"
       ],
-      "_source_file": "C25-16223.pdf"
+      "_source_file": "C25-16223.pdf",
+      "agency": "LAPD"
     },
     {
       "id": null,
@@ -1064,7 +1100,8 @@
         "police-misconduct",
         "obstruction-of-justice"
       ],
-      "_source_file": "C25-16271.pdf"
+      "_source_file": "C25-16271.pdf",
+      "agency": "LAPD"
     },
     {
       "id": null,
@@ -1092,7 +1129,8 @@
         "door-damage",
         "residential"
       ],
-      "_source_file": "C26-00008.pdf"
+      "_source_file": "C26-00008.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-0001",
@@ -1121,7 +1159,8 @@
         "photography"
       ],
       "_source_file": "C26-00011.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-0001.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-0001.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-00044",
@@ -1150,7 +1189,8 @@
         "grandchildren"
       ],
       "_source_file": "C26-00044.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-00044.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-00044.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-00121",
@@ -1179,7 +1219,8 @@
         "downtown"
       ],
       "_source_file": "C26-00121.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-00121.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-00121.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-00217",
@@ -1208,7 +1249,8 @@
         "homeless"
       ],
       "_source_file": "C26-00217.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-00217.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-00217.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-00254",
@@ -1237,7 +1279,8 @@
         "lost income"
       ],
       "_source_file": "C26-00254.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-00254.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-00254.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-00393",
@@ -1265,7 +1308,8 @@
         "civil-rights"
       ],
       "_source_file": "C26-00393.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-00393.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-00393.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-00408",
@@ -1294,7 +1338,8 @@
         "wilcox-station"
       ],
       "_source_file": "C26-00408.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-00408.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-00408.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-03464",
@@ -1323,7 +1368,8 @@
         "medical-treatment"
       ],
       "_source_file": "C26-03464.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-03464.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-03464.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-03590",
@@ -1352,7 +1398,8 @@
         "northridge"
       ],
       "_source_file": "C26-03590.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-03590.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-03590.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-03592",
@@ -1381,7 +1428,8 @@
         "intersection"
       ],
       "_source_file": "C26-03592.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-03592.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-03592.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-03598",
@@ -1410,7 +1458,8 @@
         "balcony"
       ],
       "_source_file": "C26-03598.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-03598.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-03598.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-03634",
@@ -1439,7 +1488,8 @@
         "sherman-oaks"
       ],
       "_source_file": "C26-03634.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-03634.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-03634.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-03635",
@@ -1468,7 +1518,8 @@
         "south los angeles"
       ],
       "_source_file": "C26-03635.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-03635.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-03635.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-036UK",
@@ -1497,7 +1548,8 @@
         "bodily-injury"
       ],
       "_source_file": "C26-03648.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-036UK.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-036UK.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-03651",
@@ -1510,7 +1562,7 @@
       "neighborhood": "Florence",
       "type": "Use of Force",
       "narrative": "Claimant was trapped at his workplace during a police operation with street closures. When he opened the gate to ask officers if he could leave, a police K-9 bit him near his abdomen.",
-      "omission": "Descuido de la persona q tra\u00eda al perro",
+      "omission": "Descuido de la persona q traía al perro",
       "amount": 7500.0,
       "amountDisplay": "$7,500.00",
       "injuries": "Dog bite with somewhat deep perforation in lower abdomen area, pain near navel, two teeth marks visible, unable to work properly for two days",
@@ -1526,7 +1578,8 @@
         "workplace"
       ],
       "_source_file": "C26-03651.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-03651.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-03651.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-03652",
@@ -1554,7 +1607,8 @@
         "van-nuys"
       ],
       "_source_file": "C26-03652.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-03652.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-03652.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-03660",
@@ -1582,7 +1636,8 @@
         "construction tools"
       ],
       "_source_file": "C26-03660.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-03660.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-03660.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-03765",
@@ -1611,7 +1666,8 @@
         "officer-at-fault"
       ],
       "_source_file": "C26-03765.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-03765.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-03765.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-63783",
@@ -1640,7 +1696,8 @@
         "insurance-claim"
       ],
       "_source_file": "C26-03783.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-63783.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-63783.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "CAG-037484",
@@ -1669,7 +1726,8 @@
         "koreatown"
       ],
       "_source_file": "C26-03784.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/CAG-037484.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/CAG-037484.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-05749",
@@ -1698,7 +1756,8 @@
         "hospital"
       ],
       "_source_file": "C26-03798.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-05749.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-05749.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-038832",
@@ -1727,7 +1786,8 @@
         "sunland"
       ],
       "_source_file": "C26-03832.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-038832.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-038832.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-036257",
@@ -1756,7 +1816,8 @@
         "emergency services"
       ],
       "_source_file": "C26-03835.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-036257.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-036257.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C2AE-033836",
@@ -1785,7 +1846,8 @@
         "lapd"
       ],
       "_source_file": "C26-03836.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C2AE-033836.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C2AE-033836.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-03434",
@@ -1814,7 +1876,8 @@
         "sunland"
       ],
       "_source_file": "C26-03839.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-03434.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-03434.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-03464",
@@ -1843,7 +1906,8 @@
         "downtown"
       ],
       "_source_file": "C26-03846.protest_claim.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-03464.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-03464.pdf",
+      "agency": "LAPD"
     },
     {
       "id": null,
@@ -1871,7 +1935,8 @@
         "protest",
         "excessive-force"
       ],
-      "_source_file": "C26-03915.protest_claim.pdf"
+      "_source_file": "C26-03915.protest_claim.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-03435",
@@ -1900,7 +1965,8 @@
         "lapd operation"
       ],
       "_source_file": "C26-03932.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-03435.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-03435.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-03946",
@@ -1929,7 +1995,8 @@
         "traffic-collision"
       ],
       "_source_file": "C26-03946.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-03946.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-03946.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-03951",
@@ -1958,7 +2025,8 @@
         "lapd-vehicle"
       ],
       "_source_file": "C26-03951.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-03951.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-03951.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-03963",
@@ -1987,7 +2055,8 @@
         "garage"
       ],
       "_source_file": "C26-03963.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-03963.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-03963.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-04050",
@@ -2016,7 +2085,8 @@
         "psychiatric-hold"
       ],
       "_source_file": "C26-04050.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-04050.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-04050.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-04062",
@@ -2045,7 +2115,8 @@
         "police-entry"
       ],
       "_source_file": "C26-04062.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-04062.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-04062.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-04074",
@@ -2074,7 +2145,8 @@
         "sun-valley"
       ],
       "_source_file": "C26-04074.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-04074.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-04074.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-04112",
@@ -2103,7 +2175,8 @@
         "detention"
       ],
       "_source_file": "C26-04112.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-04112.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-04112.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-01106",
@@ -2132,7 +2205,8 @@
         "negligence"
       ],
       "_source_file": "C26-04116.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-01106.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-01106.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-GY0I20",
@@ -2160,7 +2234,8 @@
         "insufficient-information"
       ],
       "_source_file": "C26-04120.protest_claim.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-GY0I20.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-GY0I20.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-04125",
@@ -2189,7 +2264,8 @@
         "insurance-claim"
       ],
       "_source_file": "C26-04125.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-04125.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-04125.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-00413",
@@ -2218,7 +2294,8 @@
         "sleeping"
       ],
       "_source_file": "C26-04132.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-00413.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-00413.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-04135",
@@ -2247,7 +2324,8 @@
         "intersection"
       ],
       "_source_file": "C26-04135.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-04135.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-04135.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-04143",
@@ -2276,7 +2354,8 @@
         "south la"
       ],
       "_source_file": "C26-04143.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-04143.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-04143.pdf",
+      "agency": "LAPD"
     },
     {
       "id": null,
@@ -2304,7 +2383,8 @@
         "bodily injury",
         "use of force"
       ],
-      "_source_file": "C26-04157.protest_claim.pdf"
+      "_source_file": "C26-04157.protest_claim.pdf",
+      "agency": "LAPD"
     },
     {
       "id": null,
@@ -2332,7 +2412,8 @@
         "unmarked-vehicle",
         "multi-vehicle"
       ],
-      "_source_file": "C26-04159.pdf"
+      "_source_file": "C26-04159.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-03110",
@@ -2360,7 +2441,8 @@
         "lapd"
       ],
       "_source_file": "C26-04163.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-03110.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-03110.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-04177",
@@ -2389,7 +2471,8 @@
         "ebay"
       ],
       "_source_file": "C26-04177.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-04177.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-04177.pdf",
+      "agency": "LAPD"
     },
     {
       "id": null,
@@ -2416,7 +2499,8 @@
         "taylor-ring",
         "incomplete-form"
       ],
-      "_source_file": "C26-04197.protest_claim.pdf"
+      "_source_file": "C26-04197.protest_claim.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-03464",
@@ -2444,7 +2528,8 @@
         "civil rights"
       ],
       "_source_file": "C26-04198.protest_claim.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-03464.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-03464.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C286-04144",
@@ -2472,7 +2557,8 @@
         "pending"
       ],
       "_source_file": "C26-04199.protest_claims.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C286-04144.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C286-04144.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-04213",
@@ -2500,7 +2586,8 @@
         "negligence"
       ],
       "_source_file": "C26-04213.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-04213.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-04213.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-04231",
@@ -2529,7 +2616,8 @@
         "financial-hardship"
       ],
       "_source_file": "C26-04231.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-04231.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-04231.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C2-04245",
@@ -2558,7 +2646,8 @@
         "downtown"
       ],
       "_source_file": "C26-04295.protest_claim.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C2-04245.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C2-04245.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-03464",
@@ -2587,7 +2676,8 @@
         "bodily-injury"
       ],
       "_source_file": "C26-04391.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-03464.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-03464.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-04342",
@@ -2615,7 +2705,8 @@
         "property-damage"
       ],
       "_source_file": "C26-04393.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-04342.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-04342.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C25-04537",
@@ -2644,7 +2735,8 @@
         "nighttime-incident"
       ],
       "_source_file": "C26-04404.protest_claims.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C25-04537.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C25-04537.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-03464",
@@ -2673,7 +2765,8 @@
         "concussion"
       ],
       "_source_file": "C26-04422.protest_claim.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-03464.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-03464.pdf",
+      "agency": "LAPD"
     },
     {
       "id": null,
@@ -2701,7 +2794,8 @@
         "sovereign-citizen",
         "court-case"
       ],
-      "_source_file": "C26-04429.pdf"
+      "_source_file": "C26-04429.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-04432",
@@ -2730,7 +2824,8 @@
         "westchester"
       ],
       "_source_file": "C26-04432.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-04432.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-04432.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-04436",
@@ -2759,7 +2854,8 @@
         "harbor city"
       ],
       "_source_file": "C26-04436.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-04436.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-04436.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-04470",
@@ -2787,7 +2883,8 @@
         "downtown"
       ],
       "_source_file": "C26-04470.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-04470.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-04470.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-04490",
@@ -2816,7 +2913,8 @@
         "parking lot"
       ],
       "_source_file": "C26-04490.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-04490.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-04490.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-04049",
@@ -2845,7 +2943,8 @@
         "prison-safety"
       ],
       "_source_file": "C26-04494.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-04049.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-04049.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-04495",
@@ -2874,7 +2973,8 @@
         "woodland hills"
       ],
       "_source_file": "C26-04495.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-04495.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-04495.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-04505",
@@ -2903,7 +3003,8 @@
         "biometric data"
       ],
       "_source_file": "C26-04505.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-04505.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-04505.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-04516",
@@ -2932,7 +3033,8 @@
         "property-damage"
       ],
       "_source_file": "C26-04516.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-04516.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-04516.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-04520",
@@ -2961,7 +3063,8 @@
         "jail conditions"
       ],
       "_source_file": "C26-04520.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-04520.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-04520.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-04525",
@@ -2990,7 +3093,8 @@
         "detention"
       ],
       "_source_file": "C26-04525.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-04525.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-04525.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-04528",
@@ -3019,7 +3123,8 @@
         "civil rights"
       ],
       "_source_file": "C26-04528.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-04528.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-04528.pdf",
+      "agency": "LAPD"
     },
     {
       "id": null,
@@ -3047,7 +3152,8 @@
         "head injury",
         "negligence"
       ],
-      "_source_file": "C26-04533 Copy of Claim.pdf"
+      "_source_file": "C26-04533 Copy of Claim.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-04562",
@@ -3076,7 +3182,8 @@
         "pending-damages"
       ],
       "_source_file": "C26-04562.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-04562.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-04562.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-04569",
@@ -3105,7 +3212,8 @@
         "gas-station"
       ],
       "_source_file": "C26-04569.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-04569.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-04569.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-04587",
@@ -3134,7 +3242,8 @@
         "historical incident"
       ],
       "_source_file": "C26-04587.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-04587.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-04587.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-04589",
@@ -3163,7 +3272,8 @@
         "high-value claim"
       ],
       "_source_file": "C26-04589.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-04589.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-04589.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-04594",
@@ -3192,7 +3302,8 @@
         "commissioner"
       ],
       "_source_file": "C26-04594.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-04594.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-04594.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-01547",
@@ -3220,7 +3331,8 @@
         "state farm"
       ],
       "_source_file": "C26-04597.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-01547.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-01547.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-04601",
@@ -3249,7 +3361,8 @@
         "mental health"
       ],
       "_source_file": "C26-04601.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-04601.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-04601.pdf",
+      "agency": "LAPD"
     },
     {
       "id": null,
@@ -3277,7 +3390,8 @@
         "property damage",
         "spanish language"
       ],
-      "_source_file": "C26-04671.pdf"
+      "_source_file": "C26-04671.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-04045",
@@ -3306,7 +3420,8 @@
         "respondeat superior"
       ],
       "_source_file": "C26-04683.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-04045.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-04045.pdf",
+      "agency": "LAPD"
     },
     {
       "id": null,
@@ -3334,7 +3449,8 @@
         "illegal-detention",
         "harbor-division"
       ],
-      "_source_file": "C26-04708.pdf"
+      "_source_file": "C26-04708.pdf",
+      "agency": "LAPD"
     },
     {
       "id": null,
@@ -3361,7 +3477,8 @@
         "false-imprisonment",
         "criminal-case"
       ],
-      "_source_file": "C26-04735.pdf"
+      "_source_file": "C26-04735.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-04832",
@@ -3390,7 +3507,8 @@
         "water-damage"
       ],
       "_source_file": "C26-04832.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-04832.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-04832.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-04837",
@@ -3419,7 +3537,8 @@
         "water-damage"
       ],
       "_source_file": "C26-04837.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-04837.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-04837.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-04838",
@@ -3447,7 +3566,8 @@
         "passing"
       ],
       "_source_file": "C26-04838.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-04838.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-04838.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-04846",
@@ -3476,7 +3596,8 @@
         "west-adams"
       ],
       "_source_file": "C26-04846.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-04846.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-04846.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-04853",
@@ -3505,7 +3626,8 @@
         "encino"
       ],
       "_source_file": "C26-04853.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-04853.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-04853.pdf",
+      "agency": "LAPD"
     },
     {
       "id": null,
@@ -3533,7 +3655,8 @@
         "wrongful imprisonment",
         "federal case"
       ],
-      "_source_file": "C26-04917.toyreion_sessions.pdf"
+      "_source_file": "C26-04917.toyreion_sessions.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-04986",
@@ -3562,7 +3685,8 @@
         "residential"
       ],
       "_source_file": "C26-04986.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-04986.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-04986.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-03011",
@@ -3590,7 +3714,8 @@
         "residential"
       ],
       "_source_file": "C26-05011.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-03011.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-03011.pdf",
+      "agency": "LAPD"
     },
     {
       "id": null,
@@ -3617,7 +3742,8 @@
         "lapd",
         "destroyed property"
       ],
-      "_source_file": "C26-05019.pdf"
+      "_source_file": "C26-05019.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-05043",
@@ -3646,7 +3772,8 @@
         "unarmed"
       ],
       "_source_file": "C26-05043.mario_sanchez.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-05043.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-05043.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-05043",
@@ -3675,7 +3802,8 @@
         "southeast-division"
       ],
       "_source_file": "C26-05045.mario_sanchez.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-05043.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-05043.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-05043",
@@ -3704,7 +3832,8 @@
         "unarmed"
       ],
       "_source_file": "C26-05050.mario_sanchez.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-05043.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-05043.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-05043",
@@ -3733,7 +3862,8 @@
         "southeast-division"
       ],
       "_source_file": "C26-05052.mario_sanchez.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-05043.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-05043.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-05043",
@@ -3762,7 +3892,8 @@
         "southeast-division"
       ],
       "_source_file": "C26-05063.mario_sanchez.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-05043.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-05043.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-05084",
@@ -3791,7 +3922,8 @@
         "mental-distress"
       ],
       "_source_file": "C26-05084.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-05084.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-05084.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-05102",
@@ -3820,7 +3952,8 @@
         "gunfire"
       ],
       "_source_file": "C26-05102.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-05102.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-05102.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-05134",
@@ -3849,7 +3982,8 @@
         "activist"
       ],
       "_source_file": "C26-05138.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-05134.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-05134.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-05217",
@@ -3878,7 +4012,8 @@
         "fleet-vehicle"
       ],
       "_source_file": "C26-05217.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-05217.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-05217.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-05260",
@@ -3907,7 +4042,8 @@
         "lapd"
       ],
       "_source_file": "C26-05260.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-05260.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-05260.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-05316",
@@ -3936,7 +4072,8 @@
         "hollywood"
       ],
       "_source_file": "C26-05316.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-05316.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-05316.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-05366",
@@ -3965,7 +4102,8 @@
         "homeless"
       ],
       "_source_file": "C26-05366.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-05366.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-05366.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-05368",
@@ -3994,7 +4132,8 @@
         "hollywood"
       ],
       "_source_file": "C26-05368.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-05368.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-05368.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-05369",
@@ -4023,7 +4162,8 @@
         "reputation damage"
       ],
       "_source_file": "C26-05369.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-05369.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-05369.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-05467",
@@ -4052,7 +4192,8 @@
         "lynwood jail"
       ],
       "_source_file": "C26-05467.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-05467.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-05467.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-05473",
@@ -4081,7 +4222,8 @@
         "right-of-way"
       ],
       "_source_file": "C26-05473.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-05473.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-05473.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-05456",
@@ -4110,7 +4252,8 @@
         "police vehicle"
       ],
       "_source_file": "C26-05482.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-05456.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-05456.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-05508",
@@ -4138,7 +4281,8 @@
         "pursuit"
       ],
       "_source_file": "C26-05508.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-05508.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-05508.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-02686",
@@ -4166,7 +4310,8 @@
         "lapd-vehicle"
       ],
       "_source_file": "C26-05521.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-02686.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-02686.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-05257",
@@ -4194,7 +4339,8 @@
         "south-la"
       ],
       "_source_file": "C26-05525.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-05257.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-05257.pdf",
+      "agency": "LAPD"
     },
     {
       "id": null,
@@ -4222,7 +4368,8 @@
         "nighttime incident",
         "attorney represented"
       ],
-      "_source_file": "C26-05526.pdf"
+      "_source_file": "C26-05526.pdf",
+      "agency": "LAPD"
     },
     {
       "id": null,
@@ -4250,7 +4397,8 @@
         "attorney represented",
         "lapd"
       ],
-      "_source_file": "C26-05530.pdf"
+      "_source_file": "C26-05530.pdf",
+      "agency": "LAPD"
     },
     {
       "id": null,
@@ -4276,7 +4424,8 @@
         "traffic-incident",
         "spanish-language-claim"
       ],
-      "_source_file": "C26-05535.pdf"
+      "_source_file": "C26-05535.pdf",
+      "agency": "LAPD"
     },
     {
       "id": null,
@@ -4304,7 +4453,8 @@
         "south-la",
         "attorney-represented"
       ],
-      "_source_file": "C26-05539.pdf"
+      "_source_file": "C26-05539.pdf",
+      "agency": "LAPD"
     },
     {
       "id": null,
@@ -4332,7 +4482,8 @@
         "excessive force",
         "police encounter"
       ],
-      "_source_file": "C26-05543.pdf"
+      "_source_file": "C26-05543.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-03544",
@@ -4361,7 +4512,8 @@
         "property-crime"
       ],
       "_source_file": "C26-05547.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-03544.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-03544.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-05559",
@@ -4390,7 +4542,8 @@
         "business disruption"
       ],
       "_source_file": "C26-05559.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-05559.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-05559.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-05568",
@@ -4419,7 +4572,8 @@
         "downtown"
       ],
       "_source_file": "C26-05568.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-05568.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-05568.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C06-05534",
@@ -4447,7 +4601,8 @@
         "prior-case"
       ],
       "_source_file": "C26-05584.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C06-05534.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C06-05534.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-05594",
@@ -4476,7 +4631,8 @@
         "ambush"
       ],
       "_source_file": "C26-05594.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-05594.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-05594.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-05774",
@@ -4504,7 +4660,8 @@
         "city-employee"
       ],
       "_source_file": "C26-05696.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-05774.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-05774.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-05774",
@@ -4532,7 +4689,8 @@
         "city-employee"
       ],
       "_source_file": "C26-05774.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-05774.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-05774.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-05822",
@@ -4561,7 +4719,8 @@
         "traffic accident"
       ],
       "_source_file": "C26-05822.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-05822.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-05822.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-05827",
@@ -4590,7 +4749,8 @@
         "police misconduct"
       ],
       "_source_file": "C26-05827.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-05827.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-05827.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C16-05858",
@@ -4619,7 +4779,8 @@
         "property damage"
       ],
       "_source_file": "C26-05851.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C16-05858.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C16-05858.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-05899",
@@ -4648,7 +4809,8 @@
         "south-la"
       ],
       "_source_file": "C26-05899.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-05899.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-05899.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-05902",
@@ -4677,7 +4839,8 @@
         "public-records"
       ],
       "_source_file": "C26-05902.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-05902.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-05902.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-05911",
@@ -4706,7 +4869,8 @@
         "police-raid"
       ],
       "_source_file": "C26-05911.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-05911.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-05911.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-05921",
@@ -4735,7 +4899,8 @@
         "home security"
       ],
       "_source_file": "C26-05921.ring_camera.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-05921.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-05921.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-05969",
@@ -4764,7 +4929,8 @@
         "parking-lot"
       ],
       "_source_file": "C26-05969.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-05969.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-05969.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-06001",
@@ -4793,7 +4959,8 @@
         "boyle-heights"
       ],
       "_source_file": "C26-06001.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-06001.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-06001.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-6603",
@@ -4821,7 +4988,8 @@
         "police-violence"
       ],
       "_source_file": "C26-06033.protest_claim.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-6603.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-6603.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "017137486",
@@ -4849,7 +5017,8 @@
         "property damage"
       ],
       "_source_file": "C26-06048.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/017137486.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/017137486.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "CA2G-006/3",
@@ -4878,7 +5047,8 @@
         "lapd employee"
       ],
       "_source_file": "C26-06113.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/CA2G-006/3.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/CA2G-006/3.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-06146",
@@ -4906,7 +5076,8 @@
         "mental suffering"
       ],
       "_source_file": "C26-06146.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-06146.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-06146.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-06152",
@@ -4935,7 +5106,8 @@
         "south-gate"
       ],
       "_source_file": "C26-06152.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-06152.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-06152.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-06012",
@@ -4964,7 +5136,8 @@
         "vicarious-liability"
       ],
       "_source_file": "C26-06172.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-06012.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-06012.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-06176",
@@ -4993,7 +5166,8 @@
         "ford-mustang"
       ],
       "_source_file": "C26-06176.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-06176.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-06176.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-03464",
@@ -5022,7 +5196,8 @@
         "northridge"
       ],
       "_source_file": "C26-06212.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-03464.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-03464.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-06234",
@@ -5051,7 +5226,8 @@
         "city employee"
       ],
       "_source_file": "C26-06234.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-06234.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-06234.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-06236",
@@ -5080,7 +5256,8 @@
         "third-party-harm"
       ],
       "_source_file": "C26-06236.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-06236.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-06236.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-02020",
@@ -5109,7 +5286,8 @@
         "south la"
       ],
       "_source_file": "C26-06240.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-02020.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-02020.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-06276",
@@ -5138,7 +5316,8 @@
         "moving"
       ],
       "_source_file": "C26-06276.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-06276.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-06276.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-06283",
@@ -5166,7 +5345,8 @@
         "unspecified-incident"
       ],
       "_source_file": "C26-06283.protest.claim.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-06283.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-06283.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-06296",
@@ -5195,7 +5375,8 @@
         "window-damage"
       ],
       "_source_file": "C26-06296.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-06296.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-06296.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-06308",
@@ -5224,7 +5405,8 @@
         "civil-rights-violation"
       ],
       "_source_file": "C26-06308.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-06308.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-06308.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-06308",
@@ -5253,7 +5435,8 @@
         "failure to act"
       ],
       "_source_file": "C26-06312.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-06308.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-06308.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-06308",
@@ -5282,7 +5465,8 @@
         "civil-rights"
       ],
       "_source_file": "C26-06313.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-06308.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-06308.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-03609",
@@ -5311,7 +5495,8 @@
         "negligence"
       ],
       "_source_file": "C26-06314.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-03609.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-03609.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-06308",
@@ -5340,7 +5525,8 @@
         "civil-rights"
       ],
       "_source_file": "C26-06315.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-06308.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-06308.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-06308",
@@ -5369,7 +5555,8 @@
         "civil rights violation"
       ],
       "_source_file": "C26-06316.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-06308.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-06308.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-06365",
@@ -5397,7 +5584,8 @@
         "administrative error"
       ],
       "_source_file": "C26-06365.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-06365.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-06365.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-06376",
@@ -5426,7 +5614,8 @@
         "lapd"
       ],
       "_source_file": "C26-06376.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-06376.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-06376.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-03464",
@@ -5455,7 +5644,8 @@
         "african-american"
       ],
       "_source_file": "C26-06416.salmon_excessive.force.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-03464.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-03464.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-0b626",
@@ -5484,7 +5674,8 @@
         "family"
       ],
       "_source_file": "C26-06429.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-0b626.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-0b626.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-06626",
@@ -5513,7 +5704,8 @@
         "family"
       ],
       "_source_file": "C26-06430.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-06626.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-06626.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-06226",
@@ -5542,7 +5734,8 @@
         "family"
       ],
       "_source_file": "C26-06432.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-06226.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-06226.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-06626",
@@ -5571,7 +5764,8 @@
         "family"
       ],
       "_source_file": "C26-06434.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-06626.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-06626.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-06626",
@@ -5600,7 +5794,8 @@
         "family"
       ],
       "_source_file": "C26-06435.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-06626.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-06626.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C24-0b626",
@@ -5629,7 +5824,8 @@
         "family"
       ],
       "_source_file": "C26-06436.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C24-0b626.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C24-0b626.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-06440",
@@ -5657,7 +5853,8 @@
         "police vehicle"
       ],
       "_source_file": "C26-06440.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-06440.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-06440.pdf",
+      "agency": "LAPD"
     },
     {
       "id": null,
@@ -5685,7 +5882,8 @@
         "police vehicle",
         "personal injury"
       ],
-      "_source_file": "C26-06449.pdf"
+      "_source_file": "C26-06449.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-06463",
@@ -5714,7 +5912,8 @@
         "sun valley"
       ],
       "_source_file": "C26-06463.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-06463.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-06463.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-03472",
@@ -5743,7 +5942,8 @@
         "backing-collision"
       ],
       "_source_file": "C26-06473.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-03472.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-03472.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-06486",
@@ -5772,7 +5972,8 @@
         "lapd-oversight"
       ],
       "_source_file": "C26-06486.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-06486.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-06486.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-06499",
@@ -5800,7 +6001,8 @@
         "reseda"
       ],
       "_source_file": "C26-06499.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-06499.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-06499.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-0b626",
@@ -5829,7 +6031,8 @@
         "knee on neck"
       ],
       "_source_file": "C26-06526.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-0b626.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-0b626.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-06533",
@@ -5858,7 +6061,8 @@
         "i-405"
       ],
       "_source_file": "C26-06533.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-06533.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-06533.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-06536",
@@ -5887,7 +6091,8 @@
         "rental-property"
       ],
       "_source_file": "C26-06536.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-06536.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-06536.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-06558",
@@ -5915,7 +6120,8 @@
         "parking"
       ],
       "_source_file": "C26-06582.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-06558.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-06558.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-06540",
@@ -5944,7 +6150,8 @@
         "lapd internal"
       ],
       "_source_file": "C26-06590.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-06540.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-06540.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-06598",
@@ -5972,7 +6179,8 @@
         "patrol-car"
       ],
       "_source_file": "C26-06598.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-06598.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-06598.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "CAG 06607",
@@ -6001,7 +6209,8 @@
         "negligence"
       ],
       "_source_file": "C26-06607.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/CAG 06607.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/CAG 06607.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-00612",
@@ -6030,7 +6239,8 @@
         "head injury"
       ],
       "_source_file": "C26-06612.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-00612.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-00612.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-06614",
@@ -6058,7 +6268,8 @@
         "detention"
       ],
       "_source_file": "C26-06614.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-06614.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-06614.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "CAC6-0669",
@@ -6086,7 +6297,8 @@
         "attached-documents"
       ],
       "_source_file": "C26-06618.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/CAC6-0669.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/CAC6-0669.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-10130",
@@ -6115,7 +6327,8 @@
         "civil rights"
       ],
       "_source_file": "C26-10130.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-10130.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-10130.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C 26-1019",
@@ -6144,7 +6357,8 @@
         "van-nuys"
       ],
       "_source_file": "C26-10619.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C 26-1019.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C 26-1019.pdf",
+      "agency": "LAPD"
     },
     {
       "id": null,
@@ -6172,7 +6386,8 @@
         "fractured-ribs",
         "downtown"
       ],
-      "_source_file": "C26-10745 Claim Attachment_Redacted.pdf"
+      "_source_file": "C26-10745 Claim Attachment_Redacted.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-10745",
@@ -6200,7 +6415,8 @@
         "unspecified-incident"
       ],
       "_source_file": "C26-10745.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-10745.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-10745.pdf",
+      "agency": "LAPD"
     },
     {
       "id": null,
@@ -6225,7 +6441,8 @@
         "missing-data",
         "insurance-inquiry"
       ],
-      "_source_file": "C26-10884.pdf"
+      "_source_file": "C26-10884.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-10885",
@@ -6254,7 +6471,8 @@
         "apartment"
       ],
       "_source_file": "C26-10885.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-10885.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-10885.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-10979",
@@ -6283,7 +6501,8 @@
         "san-pedro"
       ],
       "_source_file": "C26-10979.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-10979.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-10979.pdf",
+      "agency": "LAPD"
     },
     {
       "id": null,
@@ -6310,7 +6529,8 @@
         "impound",
         "pacoima"
       ],
-      "_source_file": "C26-11000.pdf"
+      "_source_file": "C26-11000.pdf",
+      "agency": "LAPD"
     },
     {
       "id": null,
@@ -6338,7 +6558,8 @@
         "fire-department",
         "unspecified-incident"
       ],
-      "_source_file": "C26-11056.pdf"
+      "_source_file": "C26-11056.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-11110",
@@ -6350,7 +6571,7 @@
       "location": "7816 Simpson Ave, North Hollywood, CA 91605",
       "neighborhood": "North Hollywood",
       "type": "False Arrest",
-      "narrative": "Claimant was arrested by LAPD North Hollywood Division officers and held for over 72 hours without being taken before a judge. He was released with a Certificate of Release under Penal Code \u00a7849(b), which legally states no arrest occurred and there was no probable cause for detention.",
+      "narrative": "Claimant was arrested by LAPD North Hollywood Division officers and held for over 72 hours without being taken before a judge. He was released with a Certificate of Release under Penal Code §849(b), which legally states no arrest occurred and there was no probable cause for detention.",
       "omission": "Los Angeles Police Department North Hollywood Division Officers: Lindquist, Alfaro, Ramirez",
       "amount": 250000.0,
       "amountDisplay": "$250,000.00",
@@ -6367,7 +6588,8 @@
         "emotional distress"
       ],
       "_source_file": "C26-11110.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-11110.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-11110.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-11359",
@@ -6396,7 +6618,8 @@
         "studio city"
       ],
       "_source_file": "C26-11359.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-11359.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-11359.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-11365",
@@ -6425,7 +6648,8 @@
         "excessive-force"
       ],
       "_source_file": "C26-11365.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-11365.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-11365.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-11720",
@@ -6453,7 +6677,8 @@
         "2018-incident"
       ],
       "_source_file": "C26-11720.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-11720.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-11720.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-11722",
@@ -6481,7 +6706,8 @@
         "female-claimant"
       ],
       "_source_file": "C26-11722.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-11722.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-11722.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-12032",
@@ -6509,7 +6735,8 @@
         "civil rights"
       ],
       "_source_file": "C26-12032.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-12032.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-12032.pdf",
+      "agency": "LAPD"
     },
     {
       "id": null,
@@ -6537,7 +6764,8 @@
         "protest",
         "civil rights"
       ],
-      "_source_file": "C26-12053 Gowdy v. City of Los Angeles, et al - Administrative Claim.pdf"
+      "_source_file": "C26-12053 Gowdy v. City of Los Angeles, et al - Administrative Claim.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-12053",
@@ -6566,7 +6794,8 @@
         "excessive force"
       ],
       "_source_file": "C26-12053.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-12053.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-12053.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-12388",
@@ -6595,7 +6824,8 @@
         "pat-down"
       ],
       "_source_file": "C26-12388.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-12388.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-12388.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-12395",
@@ -6624,7 +6854,8 @@
         "homeless"
       ],
       "_source_file": "C26-12395.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-12395.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-12395.pdf",
+      "agency": "LAPD"
     },
     {
       "id": null,
@@ -6652,7 +6883,8 @@
         "police misconduct",
         "detention"
       ],
-      "_source_file": "C26-12439.pdf"
+      "_source_file": "C26-12439.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-12547",
@@ -6681,7 +6913,8 @@
         "emotional distress"
       ],
       "_source_file": "C26-12547.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-12547.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-12547.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-12599",
@@ -6709,7 +6942,8 @@
         "lancaster"
       ],
       "_source_file": "C26-12599.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-12599.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-12599.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-02653",
@@ -6738,7 +6972,8 @@
         "lapd-encounter"
       ],
       "_source_file": "C26-12653.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-02653.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-02653.pdf",
+      "agency": "LAPD"
     },
     {
       "id": "C26-12691",
@@ -6767,7 +7002,8 @@
         "due process"
       ],
       "_source_file": "C26-12691.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-12691.pdf"
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-12691.pdf",
+      "agency": "LAPD"
     },
     {
       "id": null,
@@ -6795,7 +7031,816 @@
         "civil rights violation",
         "guns drawn"
       ],
-      "_source_file": "C26-12749.pdf"
+      "_source_file": "C26-12749.pdf",
+      "agency": "LAPD"
+    },
+    {
+      "id": null,
+      "filed": null,
+      "incident": null,
+      "claimant": null,
+      "age": null,
+      "sex": null,
+      "location": null,
+      "neighborhood": null,
+      "type": "Forced Entry / Property Damage",
+      "narrative": "This appears to be a blank or partially filled damage claim form against LASD with attached Home Depot receipts for door, lock, and repair materials totaling approximately $268.92, suggesting property damage requiring repairs.",
+      "omission": null,
+      "amount": null,
+      "amountDisplay": null,
+      "injuries": "Property damage requiring door replacement, lock, and repair materials",
+      "attorney": null,
+      "insurance": null,
+      "officer": null,
+      "tags": [
+        "property-damage",
+        "door-repair",
+        "forced-entry",
+        "receipts",
+        "home-depot"
+      ],
+      "_source_file": "public-records-act-responsive-documents-1626 (dragged) 10.pdf",
+      "agency": "LASD"
+    },
+    {
+      "id": "25-3685",
+      "filed": "2025-07-03",
+      "incident": "2025-05-25",
+      "claimant": "Anika Lashuan Battle",
+      "age": null,
+      "sex": "Female",
+      "location": "Imperial Hwy & Simms Ave., Inglewood",
+      "neighborhood": "Inglewood",
+      "type": "Vehicle Collision",
+      "narrative": "Claimant was traveling eastbound on Imperial Hwy in the left turn lane when a LASD vehicle traveling the wrong way in westbound lanes collided with the driver's side of her vehicle.",
+      "omission": "The adverse party, who was traveling Eastbound in the Westbound lanes of Imperial Hwy, suddenly and without warning collided into the driverside of my vehicle.",
+      "amount": 1020000.0,
+      "amountDisplay": "$1,020,000.00",
+      "injuries": "Head, Neck, Shoulders, Upper Back, Lower Back, Legs, Arms",
+      "attorney": "Christopher R. McReynolds, Glendale",
+      "insurance": null,
+      "officer": "Wesley Vartkez Hovanesian",
+      "tags": [
+        "vehicle collision",
+        "wrong-way driver",
+        "lasd deputy",
+        "traffic accident",
+        "multiple injuries",
+        "inglewood"
+      ],
+      "_source_file": "public-records-act-responsive-documents-1626 (dragged) 11.pdf",
+      "agency": "LASD"
+    },
+    {
+      "id": "25-4700",
+      "filed": "2025-07-25",
+      "incident": "2025-06-07",
+      "claimant": "Christopher R. Bellmas",
+      "age": null,
+      "sex": null,
+      "location": "Lancaster, CA",
+      "neighborhood": "Lancaster",
+      "type": "Stray Bullet",
+      "narrative": "The claimant's home was damaged during a deputy-involved shooting that occurred in front of his residence. Ballistics indicated the rounds that damaged the home were fired by the Sheriff's Department.",
+      "omission": "Ballistics indicated the rounds that damaged the claimant's home were from the Sheriff's Department.",
+      "amount": null,
+      "amountDisplay": null,
+      "injuries": "Property damage to home from gunfire",
+      "attorney": null,
+      "insurance": null,
+      "officer": "Cody Chope (660059), Eliseo Hernandez (686340), Shawn Valento (676860)",
+      "tags": [
+        "deputy-involved-shooting",
+        "property-damage",
+        "stray-bullet",
+        "lancaster",
+        "ballistics",
+        "residential"
+      ],
+      "_source_file": "public-records-act-responsive-documents-1626 (dragged) 12.pdf",
+      "agency": "LASD"
+    },
+    {
+      "id": null,
+      "filed": "2025-06-04",
+      "incident": "2025-05-01",
+      "claimant": "Clarence Edward Gwds",
+      "age": null,
+      "sex": "Male",
+      "location": "Twin Towers Correctional Facility",
+      "neighborhood": "Downtown Los Angeles",
+      "type": "Other",
+      "narrative": "Claimant alleges he was denied access to legal counsel at Twin Towers Correctional Facility on May 1, 2025, causing mental health distress and feelings of hopelessness.",
+      "omission": "depriving me of legal Counsel on May 1, 2025. There was no valid reason for deputy sheriffs to deny legal representative to see me",
+      "amount": 5000000000.0,
+      "amountDisplay": "$5,000,000,000.00",
+      "injuries": "mental health issues, feelings of hopelessness, loss of peace and enjoyment",
+      "attorney": null,
+      "insurance": null,
+      "officer": null,
+      "tags": [
+        "denial of counsel",
+        "twin towers",
+        "mental health",
+        "inmate rights",
+        "constitutional violation",
+        "sixth amendment"
+      ],
+      "_source_file": "public-records-act-responsive-documents-1626 (dragged) 13.pdf",
+      "agency": "LASD"
+    },
+    {
+      "id": "25-3472",
+      "filed": "2025-06-26",
+      "incident": "2025-06-08",
+      "claimant": "Daisy Bravo",
+      "age": null,
+      "sex": "Female",
+      "location": "Atlantic Ave and Alondra Blvd, Compton, CA 90221",
+      "neighborhood": "Compton",
+      "type": "Use of Force",
+      "narrative": "Claimant was peacefully participating in anti-ICE protests in Compton when she was allegedly injured by LASD deputies in riot gear during a dispersal operation around 1:30 am.",
+      "omission": "See Attachment",
+      "amount": null,
+      "amountDisplay": null,
+      "injuries": "Injuries requiring visits to St. Francis Medical Center on 06/08/2025 and Glendale Memorial Hospital on 06/11/2025",
+      "attorney": "V. James DeSimone, Marina del Rey",
+      "insurance": null,
+      "officer": "Unknown Deputies, Sheriff Department",
+      "tags": [
+        "protest",
+        "anti-ice",
+        "riot-gear",
+        "first-amendment",
+        "dispersal",
+        "compton"
+      ],
+      "_source_file": "public-records-act-responsive-documents-1626 (dragged) 14.pdf",
+      "agency": "LASD"
+    },
+    {
+      "id": "25-3570",
+      "filed": "2025-06-30",
+      "incident": "2025-06-07",
+      "claimant": "Ben Camacho",
+      "age": null,
+      "sex": "Male",
+      "location": "Alondra Boulevard near 6400 Alondra Boulevard, Paramount, CA",
+      "neighborhood": "Paramount",
+      "type": "Use of Force",
+      "narrative": "LASD deputies shot journalist Ben Camacho twice with 40mm kinetic impact projectiles (rubber bullets) during a protest against ICE raids, hitting him in the knee and elbow. Camacho was wearing a press pass and carrying professional camera equipment while covering the demonstration.",
+      "omission": "LASD deputies shot journalist Ben Camacho in the knee with a 40 millimeter kinetic impact projectile. Seconds later, as Mr. Camacho was trying to seek help, LASD deputies shot Mr. Camacho again with a 40 millimeter kinetic impact projectile in the elbow.",
+      "amount": null,
+      "amountDisplay": null,
+      "injuries": "Gunshot wounds from 40mm kinetic impact projectiles to the knee and elbow",
+      "attorney": "Rebecca Brown, Hadsell Stormer Renick & Dai LLP, Pasadena",
+      "insurance": null,
+      "officer": null,
+      "tags": [
+        "journalist",
+        "rubber bullets",
+        "protest",
+        "less lethal weapons",
+        "ice protest",
+        "press freedom"
+      ],
+      "_source_file": "public-records-act-responsive-documents-1626 (dragged) 15.pdf",
+      "agency": "LASD"
+    },
+    {
+      "id": "25-7834",
+      "filed": "2025-08-21",
+      "incident": "2025-07-23",
+      "claimant": "Jimmy Enes",
+      "age": null,
+      "sex": null,
+      "location": "Near intersection of 183rd and Bloomfield Ave, Cerritos, CA",
+      "neighborhood": "Cerritos",
+      "type": "Vehicle Collision",
+      "narrative": "Los Angeles County Sheriff Deputy Dru Eric Strong rear-ended the claimant while operating a Sheriff's vehicle near the intersection of 183rd and Bloomfield Ave in Cerritos.",
+      "omission": "the claim alleges Los Angeles County Sheriff, Dru Eric Strong, was negligent when he rear ended Mr. Enes while operating an Los Angeles County Sheriff's vehicle",
+      "amount": null,
+      "amountDisplay": null,
+      "injuries": null,
+      "attorney": "Glen Raphael, Tustin",
+      "insurance": "CJPIA",
+      "officer": "Dru Eric Strong",
+      "tags": [
+        "vehicle-collision",
+        "rear-end",
+        "deputy-negligence",
+        "contract-city",
+        "cerritos",
+        "patrol-vehicle"
+      ],
+      "_source_file": "public-records-act-responsive-documents-1626 (dragged) 17.pdf",
+      "agency": "LASD"
+    },
+    {
+      "id": "25-3572",
+      "filed": "2025-06-30",
+      "incident": "2025-05-30",
+      "claimant": "Dana Williams",
+      "age": null,
+      "sex": "Female",
+      "location": "Lancaster Sheriff's Station area school",
+      "neighborhood": "Lancaster",
+      "type": "Other",
+      "narrative": "Claimant alleges Deputy Murphy and an unidentified officer accused her 13-year-old daughter of being under the influence of alcohol at school, interrogated the child in a demeaning manner despite no alcohol being found, and publicly yelled at the claimant in front of students and parents, escorting her off school grounds and preventing her from attending her daughter's IEP meeting.",
+      "omission": "The deputies' failure to intervene, protect, or investigate properly and instead aid the retaliatory behavior of school officials directly contributed to the emotional and educational harm suffered by my daughter and me.",
+      "amount": 65000.0,
+      "amountDisplay": "$65,000.00",
+      "injuries": "Emotional distress, trauma, public humiliation, and educational disruption for daughter; emotional distress, public humiliation, interference with educational rights for claimant",
+      "attorney": null,
+      "insurance": null,
+      "officer": "Deputy Murphy",
+      "tags": [
+        "civil-rights",
+        "school-incident",
+        "minor-child",
+        "public-humiliation",
+        "emotional-distress",
+        "lancaster"
+      ],
+      "_source_file": "public-records-act-responsive-documents-1626 (dragged) 18.pdf",
+      "agency": "LASD"
+    },
+    {
+      "id": "25-5517",
+      "filed": "2025-07-24",
+      "incident": "2025-05-02",
+      "claimant": "Jose Contreras",
+      "age": null,
+      "sex": "Male",
+      "location": "Alondra Blvd. & Clark Ave., Bellflower, CA 90706",
+      "neighborhood": "Bellflower",
+      "type": "Vehicle Collision",
+      "narrative": "A County vehicle operated by LASD employee Geovanny Gutierrez struck the side of Jose Contreras's vehicle at the intersection of Alondra Blvd. and Clark Ave. in Bellflower, resulting in injuries to Mr. Contreras.",
+      "omission": "Geovanny Gutierrez was operating a vehicle owned by the County of Los Angeles that struck the side of Jose Contreras vehicle. Mr. Gutierrez was in the course of scope of his employment. This collision resulted in injuries to Mr. Contreras.",
+      "amount": null,
+      "amountDisplay": null,
+      "injuries": "Injuries to Mr. Contreras (medical treatment at Kaiser Permanente and Suen Callin Orthopedic)",
+      "attorney": "Nordstrom, Steele, Nicolette, and Blythe, Tustin",
+      "insurance": "USAA General Indemnity",
+      "officer": "Geovanny Gutierrez",
+      "tags": [
+        "vehicle collision",
+        "traffic accident",
+        "intersection",
+        "bellflower",
+        "lasd vehicle",
+        "personal injury"
+      ],
+      "_source_file": "public-records-act-responsive-documents-1626 (dragged) 19.pdf",
+      "agency": "LASD"
+    },
+    {
+      "id": "25-3552",
+      "filed": "2025-06-30",
+      "incident": "2025-04-21",
+      "claimant": "Jose Gonzalez",
+      "age": null,
+      "sex": null,
+      "location": "47th St E and E Ave R, Palmdale, CA 93552",
+      "neighborhood": "Palmdale",
+      "type": "Vehicle Collision",
+      "narrative": "A Los Angeles County Sheriff vehicle with lights on but no sirens ran a red light and collided with the claimant's vehicle, which had a green light at the intersection of 47th St E and E Ave R in Palmdale.",
+      "omission": "The Los Angeles County Sheriff vehicle failed to activate its sirens and yield the right of way. Regardless of the emergency situation, the driver of the emergency vehicle is required to exercise due care when entering an intersection against a red light.",
+      "amount": 17457.54,
+      "amountDisplay": "$17,457.54",
+      "injuries": null,
+      "attorney": null,
+      "insurance": "Allstate",
+      "officer": null,
+      "tags": [
+        "vehicle-collision",
+        "sheriff-vehicle",
+        "intersection",
+        "palmdale",
+        "no-sirens",
+        "red-light"
+      ],
+      "_source_file": "public-records-act-responsive-documents-1626 (dragged) 2.pdf",
+      "agency": "LASD"
+    },
+    {
+      "id": "25-5215",
+      "filed": "2025-08-04",
+      "incident": "2025-07-25",
+      "claimant": "Joey Luis Cordero",
+      "age": null,
+      "sex": "Male",
+      "location": "Division & Millin, Lancaster, CA",
+      "neighborhood": "Lancaster",
+      "type": "Vehicle Collision",
+      "narrative": "Claimant was driving eastbound on Division Street when his vehicle was rear-ended by a Sheriff's Department vehicle at approximately 9:30pm.",
+      "omission": "Sherriff's department office rear end our client",
+      "amount": 100000.0,
+      "amountDisplay": "$100,000.00",
+      "injuries": "Bodily injury requiring visit to Antelope Valley Hospital",
+      "attorney": "RK Law Group, Beverly Hills",
+      "insurance": null,
+      "officer": null,
+      "tags": [
+        "rear-end collision",
+        "sheriff vehicle",
+        "lancaster",
+        "traffic accident",
+        "bodily injury"
+      ],
+      "_source_file": "public-records-act-responsive-documents-1626 (dragged) 20.pdf",
+      "agency": "LASD"
+    },
+    {
+      "id": "25-2760",
+      "filed": "2025-05-28",
+      "incident": null,
+      "claimant": "David Do",
+      "age": null,
+      "sex": null,
+      "location": null,
+      "neighborhood": null,
+      "type": "Other",
+      "narrative": "Claimant alleges he was targeted by a criminal enterprise led by Adam Iza, who had LASD deputies on his payroll who abused their power to extort the claimant, with attempts to assault, intimidate, steal personal property, and vandalize his home and vehicle.",
+      "omission": "The Sheriff's Department is responsible because they failed to monitor its deputies, who not only abused their power, but actually aided a criminal enterprise in its efforts to extort claimant.",
+      "amount": null,
+      "amountDisplay": "According to Proof",
+      "injuries": "Personal property stolen; home and vehicle vandalized",
+      "attorney": "YEL LAW GROUP, Irvine",
+      "insurance": null,
+      "officer": "Dean Bryan Rawlings, Christopher Eric Chase Saavedra",
+      "tags": [
+        "extortion",
+        "corruption",
+        "property damage",
+        "vandalism",
+        "deputy misconduct",
+        "criminal enterprise"
+      ],
+      "_source_file": "public-records-act-responsive-documents-1626 (dragged) 21.pdf",
+      "agency": "LASD"
+    },
+    {
+      "id": null,
+      "filed": "2025-06-17",
+      "incident": null,
+      "claimant": "Sam Doniger",
+      "age": null,
+      "sex": null,
+      "location": null,
+      "neighborhood": null,
+      "type": "Forced Entry / Property Damage",
+      "narrative": "Sheriff's deputies forced entry into a residence, knocking down the door using a metal tool like a ram bar to gain access to the unit.",
+      "omission": "Witness attests and video footage confirms that the Sheriff's Department used metal tool like a Ram Bar to knock the door in and gain access to the unit",
+      "amount": 395.19,
+      "amountDisplay": "$395.19",
+      "injuries": "Replaced front door and repaired frame and replaced the door locks",
+      "attorney": null,
+      "insurance": null,
+      "officer": null,
+      "tags": [
+        "forced-entry",
+        "property-damage",
+        "door-damage",
+        "ram-bar",
+        "residential"
+      ],
+      "_source_file": "public-records-act-responsive-documents-1626 (dragged) 22.pdf",
+      "agency": "LASD"
+    },
+    {
+      "id": "25-2930",
+      "filed": "2025-06-05",
+      "incident": "2025-05-25",
+      "claimant": "Rudy Espinoza",
+      "age": null,
+      "sex": null,
+      "location": "Downtown Los Angeles",
+      "neighborhood": "Downtown Los Angeles",
+      "type": "Stray Bullet",
+      "narrative": "A deputy responding to a call observed a male adult and fired a shot that shattered the claimant's passenger right front window while the vehicle was parked.",
+      "omission": "Deputy burst the subject window",
+      "amount": 1749.48,
+      "amountDisplay": "$1,749.48",
+      "injuries": "Passenger right front window shattered, belt molding damage, broken glass cleanup required",
+      "attorney": null,
+      "insurance": null,
+      "officer": "Deputy Vilma Centros, Norwalk Station",
+      "tags": [
+        "stray-bullet",
+        "vehicle-damage",
+        "window-shattered",
+        "deputy-shooting",
+        "downtown-la",
+        "property-damage"
+      ],
+      "_source_file": "public-records-act-responsive-documents-1626 (dragged) 23.pdf",
+      "agency": "LASD"
+    },
+    {
+      "id": "25-4731",
+      "filed": "2025-07-29",
+      "incident": "2025-07-23",
+      "claimant": "Jimmy Claudio Enes",
+      "age": null,
+      "sex": null,
+      "location": "Near intersection of 183rd and Bloomfield Avenue, Cerritos 90703",
+      "neighborhood": "Cerritos",
+      "type": "Vehicle Collision",
+      "narrative": "Mr. Enes was driving when he was rear-ended by Deputy Dru Eric Strong driving an LA County Sheriff Department vehicle.",
+      "omission": "Mr. Enes was driving when he was rear-ended by Dru Eric Strong driving a LA County Sheriff Department vehicle.",
+      "amount": null,
+      "amountDisplay": null,
+      "injuries": "Seeking chiropractic treatment at Urteaga Chiropractic",
+      "attorney": "Daryoush Zolfaghari, Esq., Orange",
+      "insurance": null,
+      "officer": "Dru Eric Strong",
+      "tags": [
+        "rear-end collision",
+        "vehicle accident",
+        "deputy-caused",
+        "chiropractic",
+        "cerritos",
+        "traffic incident"
+      ],
+      "_source_file": "public-records-act-responsive-documents-1626 (dragged) 24.pdf",
+      "agency": "LASD"
+    },
+    {
+      "id": null,
+      "filed": null,
+      "incident": null,
+      "claimant": "Gilbey Eubank",
+      "age": null,
+      "sex": null,
+      "location": "Crescent Hill Valley",
+      "neighborhood": "Pasadena",
+      "type": "Forced Entry / Property Damage",
+      "narrative": "Sheriff's deputies damaged front doors during an operation, requiring replacement of doors and locks at the claimant's residence.",
+      "omission": "Broke front doors",
+      "amount": 3446.0,
+      "amountDisplay": "$3,446.00",
+      "injuries": "Damage to front doors and locks requiring replacement",
+      "attorney": null,
+      "insurance": null,
+      "officer": null,
+      "tags": [
+        "property-damage",
+        "door-damage",
+        "forced-entry",
+        "lasd",
+        "residence",
+        "pasadena"
+      ],
+      "_source_file": "public-records-act-responsive-documents-1626 (dragged) 25.pdf",
+      "agency": "LASD"
+    },
+    {
+      "id": "25-3420",
+      "filed": "2025-06-25",
+      "incident": "2025-06-14",
+      "claimant": "Sergio Espejo",
+      "age": null,
+      "sex": null,
+      "location": "312 North Main Street, Los Angeles",
+      "neighborhood": "Downtown Los Angeles",
+      "type": "Use of Force",
+      "narrative": "Plaintiff Sergio Espejo filed a tort claim for damages against LA County and unnamed deputies related to an incident on June 14, 2025, at approximately 5:00 PM near 312 North Main Street in Los Angeles.",
+      "omission": "At all relevant times, the Individual Deputies were acting under the color of law within the course and scope of their employment and duties as agents for Defendant County of Los Angeles.",
+      "amount": null,
+      "amountDisplay": null,
+      "injuries": null,
+      "attorney": "Gregory L. Kirakosian, Studio City",
+      "insurance": null,
+      "officer": null,
+      "tags": [
+        "lasd",
+        "use of force",
+        "tort claim",
+        "downtown los angeles",
+        "civil rights",
+        "doe deputies"
+      ],
+      "_source_file": "public-records-act-responsive-documents-1626 (dragged) 26.pdf",
+      "agency": "LASD"
+    },
+    {
+      "id": "25-2930",
+      "filed": "2025-06-05",
+      "incident": null,
+      "claimant": null,
+      "age": null,
+      "sex": null,
+      "location": null,
+      "neighborhood": null,
+      "type": "Vehicle Collision",
+      "narrative": "Claimant filed a claim for vehicle damage requiring replacement of door glass, window regulator, and related repairs on a 2016 BMW 740i.",
+      "omission": null,
+      "amount": null,
+      "amountDisplay": null,
+      "injuries": "Vehicle damage including broken door glass, window regulator, trim panel, and mirror requiring repair/replacement",
+      "attorney": null,
+      "insurance": null,
+      "officer": null,
+      "tags": [
+        "vehicle damage",
+        "property damage",
+        "bmw",
+        "window damage",
+        "glass replacement",
+        "huntington park"
+      ],
+      "_source_file": "public-records-act-responsive-documents-1626 (dragged) 27.pdf",
+      "agency": "LASD"
+    },
+    {
+      "id": "25-3763",
+      "filed": "2025-07-08",
+      "incident": "2025-05-15",
+      "claimant": "Judy Ravitz",
+      "age": null,
+      "sex": null,
+      "location": "SR 1 (Pacific Coast Hwy) and Heathercliff Road",
+      "neighborhood": "Malibu",
+      "type": "Vehicle Collision",
+      "narrative": "LASD Deputy Craig Stein was traveling westbound on SR 1 when he struck Judy Ravitz's vehicle, which was in the process of making a left hand turn onto Heathercliff Road. The officer failed to maintain their lane.",
+      "omission": "The officer failed to maintain their lane.",
+      "amount": 5486.68,
+      "amountDisplay": "$5,486.68",
+      "injuries": "Vehicle property damage",
+      "attorney": null,
+      "insurance": "Farmers Insurance Exchange",
+      "officer": "Craig Stein",
+      "tags": [
+        "vehicle-collision",
+        "property-damage",
+        "subrogation",
+        "traffic-accident",
+        "deputy-at-fault",
+        "insurance-claim"
+      ],
+      "_source_file": "public-records-act-responsive-documents-1626 (dragged) 28.pdf",
+      "agency": "LASD"
+    },
+    {
+      "id": "25-4693",
+      "filed": "2025-07-25",
+      "incident": "2025-06-20",
+      "claimant": "Aleksandar Inc",
+      "age": null,
+      "sex": null,
+      "location": "I-5 S/B (Golden State Freeway), 650 feet north of Newell Street, Los Angeles, CA 90039",
+      "neighborhood": "Atwater Village",
+      "type": "Vehicle Collision",
+      "narrative": "A Sheriff's vehicle attempted to pass vehicles on the left shoulder without emergency lights activated and sideswiped the claimant's insured vehicle. CHP report determined the sheriff vehicle was at fault.",
+      "omission": "Sheriff passing in emergency lane with no lights",
+      "amount": 5938.2,
+      "amountDisplay": "$5,938.20",
+      "injuries": "Vehicle damage",
+      "attorney": null,
+      "insurance": "Federated Mutual Insurance",
+      "officer": "Kevork Arakelian",
+      "tags": [
+        "vehicle collision",
+        "freeway",
+        "sideswipe",
+        "no emergency lights",
+        "insurance subrogation",
+        "chp report"
+      ],
+      "_source_file": "public-records-act-responsive-documents-1626 (dragged) 29.pdf",
+      "agency": "LASD"
+    },
+    {
+      "id": "25-3552",
+      "filed": "2025-06-30",
+      "incident": "2025-06-04",
+      "claimant": "Jose Gonzalez",
+      "age": null,
+      "sex": null,
+      "location": "47th St E and E Ave R, Palmdale, CA 93552",
+      "neighborhood": "Palmdale",
+      "type": "Vehicle Collision",
+      "narrative": "An LA County Sheriff's Palmdale division vehicle with lights on but no sirens ran a red light and collided with the claimant's vehicle, which had a green light and the right of way.",
+      "omission": "The Los Angeles County Sheriff vehicle failed to activate its sirens and yield the right of way. Regardless of the emergency situation, the driver of the emergency vehicle is required to exercise due care when entering an intersection against a red light.",
+      "amount": 17457.54,
+      "amountDisplay": "$17,457.54",
+      "injuries": null,
+      "attorney": null,
+      "insurance": "Allstate",
+      "officer": null,
+      "tags": [
+        "vehicle-collision",
+        "sheriff-vehicle",
+        "palmdale",
+        "intersection",
+        "no-sirens",
+        "emergency-vehicle"
+      ],
+      "_source_file": "public-records-act-responsive-documents-1626 (dragged) 3 2.pdf",
+      "agency": "LASD"
+    },
+    {
+      "id": "25-3552",
+      "filed": "2025-07-22",
+      "incident": "2025-06-04",
+      "claimant": "Tasha Gonzalez",
+      "age": null,
+      "sex": "Female",
+      "location": "47th St E",
+      "neighborhood": "Los Angeles",
+      "type": "Vehicle Collision",
+      "narrative": "Insurance subrogation claim for an intersection accident involving a Los Angeles County Sheriff's Department vehicle. Allstate is seeking reimbursement for damages paid to their insured.",
+      "omission": "Intersection accident",
+      "amount": 14267.63,
+      "amountDisplay": "$14,267.63",
+      "injuries": "Vehicle damage",
+      "attorney": null,
+      "insurance": "Allstate Northbrook Indemnity Company",
+      "officer": "Juan M Arroyo",
+      "tags": [
+        "vehicle-collision",
+        "intersection-accident",
+        "subrogation",
+        "insurance-claim",
+        "property-damage"
+      ],
+      "_source_file": "public-records-act-responsive-documents-1626 (dragged) 4.pdf",
+      "agency": "LASD"
+    },
+    {
+      "id": "25-2896",
+      "filed": "2025-05-23",
+      "incident": "2025-05-17",
+      "claimant": "Johnny Ramirez",
+      "age": null,
+      "sex": null,
+      "location": "Clarcksdale Avenue And 161st Street, Norwalk, California",
+      "neighborhood": "Norwalk",
+      "type": "Vehicle Collision",
+      "narrative": "A police car without emergency lights attempted to illegally pass on the left while the claimant's vehicle was making a proper left turn with signal, resulting in a collision.",
+      "omission": "The officer improperly passed on the left when it was not safe to do so.",
+      "amount": null,
+      "amountDisplay": null,
+      "injuries": "The Allstate insured and their passenger both had injuries",
+      "attorney": null,
+      "insurance": "Allstate Northbrook Indemnity Company",
+      "officer": null,
+      "tags": [
+        "vehicle-collision",
+        "illegal-passing",
+        "traffic-violation",
+        "norwalk",
+        "property-damage",
+        "passenger-injury"
+      ],
+      "_source_file": "public-records-act-responsive-documents-1626 (dragged) 5.pdf",
+      "agency": "LASD"
+    },
+    {
+      "id": "25-2548",
+      "filed": "2025-06-10",
+      "incident": "2025-05-12",
+      "claimant": "Adrian Alvarado",
+      "age": null,
+      "sex": "Male",
+      "location": "5 Freeway N/B south of Branford St., Los Angeles, CA",
+      "neighborhood": "Sun Valley",
+      "type": "Vehicle Collision",
+      "narrative": "Adrian Alvarado was driving northbound on the 5 Freeway when LASD Deputy Daniel E. Welle's patrol vehicle struck the rear of his vehicle, causing injuries to his neck and lower back.",
+      "omission": "Officer Daniel E. Welle was not paying attention to the conditions of traffic and struck the rear of Adrian's vehicle.",
+      "amount": 70000.0,
+      "amountDisplay": "$70,000.00",
+      "injuries": "Injuries to neck and lower back from violent jolting caused by force of impact",
+      "attorney": "Daniel F. Jimenez, North Hollywood",
+      "insurance": null,
+      "officer": "Daniel E. Welle",
+      "tags": [
+        "rear-end collision",
+        "freeway",
+        "patrol vehicle",
+        "neck injury",
+        "back injury",
+        "traffic accident"
+      ],
+      "_source_file": "public-records-act-responsive-documents-1626 (dragged) 6.pdf",
+      "agency": "LASD"
+    },
+    {
+      "id": "25-5818",
+      "filed": "2025-08-12",
+      "incident": "2025-07-22",
+      "claimant": "Arthur B. Anderson",
+      "age": null,
+      "sex": "Male",
+      "location": "19th St and Beryl St, Rancho Cucamonga, CA 91701",
+      "neighborhood": "Rancho Cucamonga",
+      "type": "Vehicle Collision",
+      "narrative": "LASD Lieutenant Daniel Vizcarra rear-ended claimant's truck at an intersection, allegedly failing to maintain proper following distance. The lieutenant admitted fault at the scene.",
+      "omission": "Your employee, Lieutenant Daniel Vizcarra failed to maintain a proper following distance from me and my truck as outlined in CA vehicle code 21703 which resulted in this loss.",
+      "amount": 9337.58,
+      "amountDisplay": "$9,337.58",
+      "injuries": "Damage to front bumper, left-side front fender, and left-side front lights",
+      "attorney": null,
+      "insurance": null,
+      "officer": "Lieutenant Daniel Vizcarra, Homicide",
+      "tags": [
+        "vehicle-collision",
+        "rear-end",
+        "property-damage",
+        "unmarked-vehicle",
+        "admitted-fault",
+        "traffic-violation"
+      ],
+      "_source_file": "public-records-act-responsive-documents-1626 (dragged) 7.pdf",
+      "agency": "LASD"
+    },
+    {
+      "id": "25-3696",
+      "filed": "2025-07-03",
+      "incident": "2025-05-22",
+      "claimant": "Erika Enya",
+      "age": null,
+      "sex": "Female",
+      "location": "Carson, CA",
+      "neighborhood": "Carson",
+      "type": "Forced Entry / Property Damage",
+      "narrative": "Claimant reported her house was ransacked following a burglary call. LASD deputies responded to the scene after she called 911 reporting unknown entry to her home.",
+      "omission": "House was ransacked",
+      "amount": 8410.0,
+      "amountDisplay": "$8,410.00",
+      "injuries": null,
+      "attorney": null,
+      "insurance": null,
+      "officer": "Nunez, Ruiz, Nguyen, Hernandez, Holyfield, Awad, De Boom",
+      "tags": [
+        "ransacked",
+        "property-damage",
+        "burglary-response",
+        "carson",
+        "forced-entry",
+        "residential"
+      ],
+      "_source_file": "public-records-act-responsive-documents-1626 (dragged) 8.pdf",
+      "agency": "LASD"
+    },
+    {
+      "id": "25-5549",
+      "filed": "2025-08-07",
+      "incident": "2020-05-01",
+      "claimant": "Lorie S. Atwater",
+      "age": null,
+      "sex": "Female",
+      "location": "Stagecoach, NV",
+      "neighborhood": "Palmdale",
+      "type": "Use of Force",
+      "narrative": "Claimant alleges she was attacked by LASD Deputy Nicholas Dyer at her home in Palmdale on May 1, 2020, and has been denied medical treatment for injuries to her back and wrists for over 5 years despite repeated requests.",
+      "omission": "I have injuries suffered during an attack by a deputy sheriff at my home in Palmdale 5/1/2020. I need medical treatment for my back, my wrists, and I am being refused treatment.",
+      "amount": 10000000.0,
+      "amountDisplay": "$10,000,000.00",
+      "injuries": "Injuries to back and wrists requiring medical treatment",
+      "attorney": null,
+      "insurance": null,
+      "officer": "Deputy Nicholas Dyer",
+      "tags": [
+        "use of force",
+        "deputy assault",
+        "denied medical treatment",
+        "palmdale",
+        "back injury",
+        "civil rights"
+      ],
+      "_source_file": "public-records-act-responsive-documents-1626 (dragged) 9.pdf",
+      "agency": "LASD"
+    },
+    {
+      "id": "25-4348",
+      "filed": "2025-07-18",
+      "incident": "2025-05-21",
+      "claimant": "Amanda Garver",
+      "age": null,
+      "sex": "Female",
+      "location": "8400 Industry Ave., Pico Rivera, CA 90660",
+      "neighborhood": "Pico Rivera",
+      "type": "Forced Entry / Property Damage",
+      "narrative": "During an unannounced police raid on May 21, 2025, LASD officers forcefully broke a glass door while entering a warehouse, went through vaults, and detained the warehouse manager overnight without explanation for the raid.",
+      "omission": "The damage to the glass door occurred as a direct result of this police action",
+      "amount": 953.0,
+      "amountDisplay": "$953.00",
+      "injuries": "Broken glass door requiring replacement",
+      "attorney": null,
+      "insurance": null,
+      "officer": null,
+      "tags": [
+        "warehouse",
+        "raid",
+        "property-damage",
+        "forced-entry",
+        "detention",
+        "glass-door"
+      ],
+      "_source_file": "public-records-act-responsive-documents-1626 (dragged).pdf",
+      "agency": "LASD"
     }
   ]
 }
