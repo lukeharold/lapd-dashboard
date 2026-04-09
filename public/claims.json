@@ -1,6 +1,6 @@
 {
   "generated_at": "2026-04-09T02:54:30.929308",
-  "total": 265,
+  "total": 266,
   "claims": [
     {
       "id": "C25-15559",
@@ -7035,7 +7035,7 @@
       "agency": "LAPD"
     },
     {
-      "id": null,
+      "id": "25-3123",
       "filed": null,
       "incident": null,
       "claimant": null,
@@ -7060,7 +7060,8 @@
         "home-depot"
       ],
       "_source_file": "public-records-act-responsive-documents-1626 (dragged) 10.pdf",
-      "agency": "LASD"
+      "agency": "LASD",
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/police-legal-claims/25-3123.pdf"
     },
     {
       "id": "25-3685",
@@ -7089,7 +7090,8 @@
         "inglewood"
       ],
       "_source_file": "public-records-act-responsive-documents-1626 (dragged) 11.pdf",
-      "agency": "LASD"
+      "agency": "LASD",
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/police-legal-claims/25-3685.pdf"
     },
     {
       "id": "25-4700",
@@ -7118,10 +7120,11 @@
         "residential"
       ],
       "_source_file": "public-records-act-responsive-documents-1626 (dragged) 12.pdf",
-      "agency": "LASD"
+      "agency": "LASD",
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/police-legal-claims/25-4700.pdf"
     },
     {
-      "id": null,
+      "id": "25-2916",
       "filed": "2025-06-04",
       "incident": "2025-05-01",
       "claimant": "Clarence Edward Gwds",
@@ -7147,7 +7150,8 @@
         "sixth amendment"
       ],
       "_source_file": "public-records-act-responsive-documents-1626 (dragged) 13.pdf",
-      "agency": "LASD"
+      "agency": "LASD",
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/police-legal-claims/25-2916.pdf"
     },
     {
       "id": "25-3472",
@@ -7176,7 +7180,8 @@
         "compton"
       ],
       "_source_file": "public-records-act-responsive-documents-1626 (dragged) 14.pdf",
-      "agency": "LASD"
+      "agency": "LASD",
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/police-legal-claims/25-3472.pdf"
     },
     {
       "id": "25-3570",
@@ -7205,7 +7210,8 @@
         "press freedom"
       ],
       "_source_file": "public-records-act-responsive-documents-1626 (dragged) 15.pdf",
-      "agency": "LASD"
+      "agency": "LASD",
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/police-legal-claims/25-3570.pdf"
     },
     {
       "id": "25-7834",
@@ -7234,7 +7240,8 @@
         "patrol-vehicle"
       ],
       "_source_file": "public-records-act-responsive-documents-1626 (dragged) 17.pdf",
-      "agency": "LASD"
+      "agency": "LASD",
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/police-legal-claims/25-7834.pdf"
     },
     {
       "id": "25-3572",
@@ -7263,7 +7270,8 @@
         "lancaster"
       ],
       "_source_file": "public-records-act-responsive-documents-1626 (dragged) 18.pdf",
-      "agency": "LASD"
+      "agency": "LASD",
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/police-legal-claims/25-3572.pdf"
     },
     {
       "id": "25-5517",
@@ -7292,7 +7300,8 @@
         "personal injury"
       ],
       "_source_file": "public-records-act-responsive-documents-1626 (dragged) 19.pdf",
-      "agency": "LASD"
+      "agency": "LASD",
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/police-legal-claims/25-5517.pdf"
     },
     {
       "id": "25-3552",
@@ -7321,7 +7330,8 @@
         "red-light"
       ],
       "_source_file": "public-records-act-responsive-documents-1626 (dragged) 2.pdf",
-      "agency": "LASD"
+      "agency": "LASD",
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/police-legal-claims/25-3552.pdf"
     },
     {
       "id": "25-5215",
@@ -7349,7 +7359,8 @@
         "bodily injury"
       ],
       "_source_file": "public-records-act-responsive-documents-1626 (dragged) 20.pdf",
-      "agency": "LASD"
+      "agency": "LASD",
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/police-legal-claims/25-5215.pdf"
     },
     {
       "id": "25-2760",
@@ -7378,10 +7389,11 @@
         "criminal enterprise"
       ],
       "_source_file": "public-records-act-responsive-documents-1626 (dragged) 21.pdf",
-      "agency": "LASD"
+      "agency": "LASD",
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/police-legal-claims/25-2760.pdf"
     },
     {
-      "id": null,
+      "id": "25-3248",
       "filed": "2025-06-17",
       "incident": null,
       "claimant": "Sam Doniger",
@@ -7406,7 +7418,8 @@
         "residential"
       ],
       "_source_file": "public-records-act-responsive-documents-1626 (dragged) 22.pdf",
-      "agency": "LASD"
+      "agency": "LASD",
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/police-legal-claims/25-3248.pdf"
     },
     {
       "id": "25-2930",
@@ -7435,7 +7448,8 @@
         "property-damage"
       ],
       "_source_file": "public-records-act-responsive-documents-1626 (dragged) 23.pdf",
-      "agency": "LASD"
+      "agency": "LASD",
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/police-legal-claims/25-2930.pdf"
     },
     {
       "id": "25-4731",
@@ -7464,10 +7478,11 @@
         "traffic incident"
       ],
       "_source_file": "public-records-act-responsive-documents-1626 (dragged) 24.pdf",
-      "agency": "LASD"
+      "agency": "LASD",
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/police-legal-claims/25-4731.pdf"
     },
     {
-      "id": null,
+      "id": "25-4957",
       "filed": null,
       "incident": null,
       "claimant": "Gilbey Eubank",
@@ -7493,7 +7508,8 @@
         "pasadena"
       ],
       "_source_file": "public-records-act-responsive-documents-1626 (dragged) 25.pdf",
-      "agency": "LASD"
+      "agency": "LASD",
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/police-legal-claims/25-4957.pdf"
     },
     {
       "id": "25-3420",
@@ -7522,7 +7538,8 @@
         "doe deputies"
       ],
       "_source_file": "public-records-act-responsive-documents-1626 (dragged) 26.pdf",
-      "agency": "LASD"
+      "agency": "LASD",
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/police-legal-claims/25-3420.pdf"
     },
     {
       "id": "25-2930",
@@ -7551,7 +7568,8 @@
         "huntington park"
       ],
       "_source_file": "public-records-act-responsive-documents-1626 (dragged) 27.pdf",
-      "agency": "LASD"
+      "agency": "LASD",
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/police-legal-claims/25-2930.pdf"
     },
     {
       "id": "25-3763",
@@ -7580,7 +7598,8 @@
         "insurance-claim"
       ],
       "_source_file": "public-records-act-responsive-documents-1626 (dragged) 28.pdf",
-      "agency": "LASD"
+      "agency": "LASD",
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/police-legal-claims/25-3763.pdf"
     },
     {
       "id": "25-4693",
@@ -7609,7 +7628,8 @@
         "chp report"
       ],
       "_source_file": "public-records-act-responsive-documents-1626 (dragged) 29.pdf",
-      "agency": "LASD"
+      "agency": "LASD",
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/police-legal-claims/25-4693.pdf"
     },
     {
       "id": "25-3552",
@@ -7638,7 +7658,8 @@
         "emergency-vehicle"
       ],
       "_source_file": "public-records-act-responsive-documents-1626 (dragged) 3 2.pdf",
-      "agency": "LASD"
+      "agency": "LASD",
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/police-legal-claims/25-3552.pdf"
     },
     {
       "id": "25-3552",
@@ -7666,7 +7687,8 @@
         "property-damage"
       ],
       "_source_file": "public-records-act-responsive-documents-1626 (dragged) 4.pdf",
-      "agency": "LASD"
+      "agency": "LASD",
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/police-legal-claims/25-3552.pdf"
     },
     {
       "id": "25-2896",
@@ -7695,7 +7717,8 @@
         "passenger-injury"
       ],
       "_source_file": "public-records-act-responsive-documents-1626 (dragged) 5.pdf",
-      "agency": "LASD"
+      "agency": "LASD",
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/police-legal-claims/25-2896.pdf"
     },
     {
       "id": "25-2548",
@@ -7724,7 +7747,8 @@
         "traffic accident"
       ],
       "_source_file": "public-records-act-responsive-documents-1626 (dragged) 6.pdf",
-      "agency": "LASD"
+      "agency": "LASD",
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/police-legal-claims/25-2548.pdf"
     },
     {
       "id": "25-5818",
@@ -7753,7 +7777,8 @@
         "traffic-violation"
       ],
       "_source_file": "public-records-act-responsive-documents-1626 (dragged) 7.pdf",
-      "agency": "LASD"
+      "agency": "LASD",
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/police-legal-claims/25-5818.pdf"
     },
     {
       "id": "25-3696",
@@ -7782,7 +7807,8 @@
         "residential"
       ],
       "_source_file": "public-records-act-responsive-documents-1626 (dragged) 8.pdf",
-      "agency": "LASD"
+      "agency": "LASD",
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/police-legal-claims/25-3696.pdf"
     },
     {
       "id": "25-5549",
@@ -7811,7 +7837,8 @@
         "civil rights"
       ],
       "_source_file": "public-records-act-responsive-documents-1626 (dragged) 9.pdf",
-      "agency": "LASD"
+      "agency": "LASD",
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/police-legal-claims/25-5549.pdf"
     },
     {
       "id": "25-4348",
@@ -7840,7 +7867,35 @@
         "glass-door"
       ],
       "_source_file": "public-records-act-responsive-documents-1626 (dragged).pdf",
-      "agency": "LASD"
+      "agency": "LASD",
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/police-legal-claims/25-4348.pdf"
+    },
+    {
+      "id": "25-4266",
+      "filed": "2025-07-16",
+      "incident": "1995-01-01",
+      "claimant": "Bobby Ray Childress Jr.",
+      "age": null,
+      "sex": "Male",
+      "location": null,
+      "neighborhood": null,
+      "type": "False Arrest",
+      "narrative": "Claimant seeks damages for serving 15 years in prison for a crime he alleges he did not commit.",
+      "omission": null,
+      "amount": 30000000,
+      "amountDisplay": "$30,000,000.00",
+      "injuries": "15 years wrongful imprisonment",
+      "attorney": null,
+      "insurance": null,
+      "officer": null,
+      "agency": "LASD",
+      "tags": [
+        "wrongful conviction",
+        "false arrest",
+        "imprisonment"
+      ],
+      "_source_file": "public-records-act-responsive-documents-1626 (dragged) 16.pdf",
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/police-legal-claims/25-4266.pdf"
     }
   ]
 }
