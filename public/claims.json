@@ -93,7 +93,7 @@
       "agency": "LAPD"
     },
     {
-      "id": null,
+      "id": "C25-15723",
       "filed": "2025-05-19",
       "incident": "2024-12-10",
       "claimant": "Timothy Mathew Gonzales",
@@ -119,7 +119,8 @@
         "brutality"
       ],
       "_source_file": "C25-15723.pdf",
-      "agency": "LAPD"
+      "agency": "LAPD",
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C25-15723.pdf"
     },
     {
       "id": "C25-15724",
@@ -182,7 +183,7 @@
       "agency": "LAPD"
     },
     {
-      "id": null,
+      "id": "C25-15775",
       "filed": null,
       "incident": null,
       "claimant": "Mary eta",
@@ -208,7 +209,8 @@
         "lapd"
       ],
       "_source_file": "C25-15775.pdf",
-      "agency": "LAPD"
+      "agency": "LAPD",
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C25-15775.pdf"
     },
     {
       "id": "C25-15815",
@@ -869,7 +871,7 @@
       "agency": "LAPD"
     },
     {
-      "id": null,
+      "id": "C25-16150",
       "filed": null,
       "incident": null,
       "claimant": "Johl H. Smilowski",
@@ -895,7 +897,8 @@
         "guns drawn"
       ],
       "_source_file": "C25-16150.pdf",
-      "agency": "LAPD"
+      "agency": "LAPD",
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C25-16150.pdf"
     },
     {
       "id": "C25-16189",
@@ -1046,7 +1049,7 @@
       "agency": "LAPD"
     },
     {
-      "id": null,
+      "id": "C25-16223",
       "filed": "2025-06-16",
       "incident": "2025-03-06",
       "claimant": "Eutimio Reyes",
@@ -1072,10 +1075,11 @@
         "intoxicated"
       ],
       "_source_file": "C25-16223.pdf",
-      "agency": "LAPD"
+      "agency": "LAPD",
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C25-16223.pdf"
     },
     {
-      "id": null,
+      "id": "C25-16271",
       "filed": null,
       "incident": "2003-01-01",
       "claimant": "Emily Diane Leatherman",
@@ -1101,10 +1105,11 @@
         "obstruction-of-justice"
       ],
       "_source_file": "C25-16271.pdf",
-      "agency": "LAPD"
+      "agency": "LAPD",
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C25-16271.pdf"
     },
     {
-      "id": null,
+      "id": "C26-00008",
       "filed": null,
       "incident": "2024-03-01",
       "claimant": null,
@@ -1130,7 +1135,8 @@
         "residential"
       ],
       "_source_file": "C26-00008.pdf",
-      "agency": "LAPD"
+      "agency": "LAPD",
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-00008.pdf"
     },
     {
       "id": "C26-0001",
@@ -1910,7 +1916,7 @@
       "agency": "LAPD"
     },
     {
-      "id": null,
+      "id": "C26-03915.protest_claim",
       "filed": null,
       "incident": "2025-06-08",
       "claimant": "Peter Gazerro",
@@ -1936,7 +1942,8 @@
         "excessive-force"
       ],
       "_source_file": "C26-03915.protest_claim.pdf",
-      "agency": "LAPD"
+      "agency": "LAPD",
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-03915.protest_claim.pdf"
     },
     {
       "id": "C26-03435",
@@ -2358,7 +2365,7 @@
       "agency": "LAPD"
     },
     {
-      "id": null,
+      "id": "C26-04157.protest_claim",
       "filed": "2025-08-14",
       "incident": "2025-06-08",
       "claimant": "Whitney Jones",
@@ -2384,10 +2391,11 @@
         "use of force"
       ],
       "_source_file": "C26-04157.protest_claim.pdf",
-      "agency": "LAPD"
+      "agency": "LAPD",
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-04157.protest_claim.pdf"
     },
     {
-      "id": null,
+      "id": "C26-04159",
       "filed": null,
       "incident": "2025-03-13",
       "claimant": "Natalya Gerbermilovic",
@@ -2413,7 +2421,8 @@
         "multi-vehicle"
       ],
       "_source_file": "C26-04159.pdf",
-      "agency": "LAPD"
+      "agency": "LAPD",
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-04159.pdf"
     },
     {
       "id": "C26-03110",
@@ -2475,7 +2484,7 @@
       "agency": "LAPD"
     },
     {
-      "id": null,
+      "id": "C26-04197.protest_claim",
       "filed": "2025-08-18",
       "incident": null,
       "claimant": "Amit Patra",
@@ -2500,7 +2509,8 @@
         "incomplete-form"
       ],
       "_source_file": "C26-04197.protest_claim.pdf",
-      "agency": "LAPD"
+      "agency": "LAPD",
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-04197.protest_claim.pdf"
     },
     {
       "id": "C26-03464",
@@ -2769,7 +2779,7 @@
       "agency": "LAPD"
     },
     {
-      "id": null,
+      "id": "C26-04429",
       "filed": "2025-08-18",
       "incident": null,
       "claimant": "Daevon-Jerrielle Taylor",
@@ -2795,7 +2805,8 @@
         "court-case"
       ],
       "_source_file": "C26-04429.pdf",
-      "agency": "LAPD"
+      "agency": "LAPD",
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-04429.pdf"
     },
     {
       "id": "C26-04432",
@@ -3127,7 +3138,7 @@
       "agency": "LAPD"
     },
     {
-      "id": null,
+      "id": "C26-04533 Copy of Claim",
       "filed": "2025-03-05",
       "incident": "2025-03-02",
       "claimant": "Alexis Whittaker",
@@ -3153,7 +3164,8 @@
         "negligence"
       ],
       "_source_file": "C26-04533 Copy of Claim.pdf",
-      "agency": "LAPD"
+      "agency": "LAPD",
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-04533 Copy of Claim.pdf"
     },
     {
       "id": "C26-04562",
@@ -3365,7 +3377,7 @@
       "agency": "LAPD"
     },
     {
-      "id": null,
+      "id": "C26-04671",
       "filed": null,
       "incident": "2025-03-13",
       "claimant": "Lucio Mendoza",
@@ -3391,7 +3403,8 @@
         "spanish language"
       ],
       "_source_file": "C26-04671.pdf",
-      "agency": "LAPD"
+      "agency": "LAPD",
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-04671.pdf"
     },
     {
       "id": "C26-04045",
@@ -3424,7 +3437,7 @@
       "agency": "LAPD"
     },
     {
-      "id": null,
+      "id": "C26-04708",
       "filed": null,
       "incident": "2024-08-28",
       "claimant": "Christopher Fluker",
@@ -3450,10 +3463,11 @@
         "harbor-division"
       ],
       "_source_file": "C26-04708.pdf",
-      "agency": "LAPD"
+      "agency": "LAPD",
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-04708.pdf"
     },
     {
-      "id": null,
+      "id": "C26-04735",
       "filed": null,
       "incident": "2012-08-07",
       "claimant": "Arthur Millard Coleman",
@@ -3478,7 +3492,8 @@
         "criminal-case"
       ],
       "_source_file": "C26-04735.pdf",
-      "agency": "LAPD"
+      "agency": "LAPD",
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-04735.pdf"
     },
     {
       "id": "C26-04832",
@@ -3630,7 +3645,7 @@
       "agency": "LAPD"
     },
     {
-      "id": null,
+      "id": "C26-04917.toyreion_sessions",
       "filed": "2025-08-27",
       "incident": "2017-04-15",
       "claimant": "Toyrieon Sessions",
@@ -3656,7 +3671,8 @@
         "federal case"
       ],
       "_source_file": "C26-04917.toyreion_sessions.pdf",
-      "agency": "LAPD"
+      "agency": "LAPD",
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-04917.toyreion_sessions.pdf"
     },
     {
       "id": "C26-04986",
@@ -3718,7 +3734,7 @@
       "agency": "LAPD"
     },
     {
-      "id": null,
+      "id": "C26-05019",
       "filed": null,
       "incident": null,
       "claimant": "Jasmine Sosa",
@@ -3743,7 +3759,8 @@
         "destroyed property"
       ],
       "_source_file": "C26-05019.pdf",
-      "agency": "LAPD"
+      "agency": "LAPD",
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-05019.pdf"
     },
     {
       "id": "C26-05043",
@@ -4343,7 +4360,7 @@
       "agency": "LAPD"
     },
     {
-      "id": null,
+      "id": "C26-05526",
       "filed": "2025-09-05",
       "incident": "2025-03-07",
       "claimant": "Cortney Sighn",
@@ -4369,10 +4386,11 @@
         "attorney represented"
       ],
       "_source_file": "C26-05526.pdf",
-      "agency": "LAPD"
+      "agency": "LAPD",
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-05526.pdf"
     },
     {
-      "id": null,
+      "id": "C26-05530",
       "filed": "2025-09-05",
       "incident": "2025-03-07",
       "claimant": "Cortney Sighn",
@@ -4398,10 +4416,11 @@
         "lapd"
       ],
       "_source_file": "C26-05530.pdf",
-      "agency": "LAPD"
+      "agency": "LAPD",
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-05530.pdf"
     },
     {
-      "id": null,
+      "id": "C26-05535",
       "filed": null,
       "incident": null,
       "claimant": "Chopin Leonardo de Gutierrez",
@@ -4425,10 +4444,11 @@
         "spanish-language-claim"
       ],
       "_source_file": "C26-05535.pdf",
-      "agency": "LAPD"
+      "agency": "LAPD",
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-05535.pdf"
     },
     {
-      "id": null,
+      "id": "C26-05539",
       "filed": "2025-09-05",
       "incident": "2025-03-07",
       "claimant": "Trunnell Powell",
@@ -4454,10 +4474,11 @@
         "attorney-represented"
       ],
       "_source_file": "C26-05539.pdf",
-      "agency": "LAPD"
+      "agency": "LAPD",
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-05539.pdf"
     },
     {
-      "id": null,
+      "id": "C26-05543",
       "filed": "2025-09-05",
       "incident": "2025-03-07",
       "claimant": "Tynnell Powell",
@@ -4483,7 +4504,8 @@
         "police encounter"
       ],
       "_source_file": "C26-05543.pdf",
-      "agency": "LAPD"
+      "agency": "LAPD",
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-05543.pdf"
     },
     {
       "id": "C26-03544",
@@ -5857,7 +5879,7 @@
       "agency": "LAPD"
     },
     {
-      "id": null,
+      "id": "C26-06449",
       "filed": null,
       "incident": "2025-04-02",
       "claimant": "Marcus McKinley",
@@ -5883,7 +5905,8 @@
         "personal injury"
       ],
       "_source_file": "C26-06449.pdf",
-      "agency": "LAPD"
+      "agency": "LAPD",
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-06449.pdf"
     },
     {
       "id": "C26-06463",
@@ -6361,7 +6384,7 @@
       "agency": "LAPD"
     },
     {
-      "id": null,
+      "id": "C26-10745 Claim Attachment_Redacted",
       "filed": "2026-01-08",
       "incident": "2025-07-10",
       "claimant": "Shayne Aaron Walker",
@@ -6387,7 +6410,8 @@
         "downtown"
       ],
       "_source_file": "C26-10745 Claim Attachment_Redacted.pdf",
-      "agency": "LAPD"
+      "agency": "LAPD",
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-10745 Claim Attachment_Redacted.pdf"
     },
     {
       "id": "C26-10745",
@@ -6419,7 +6443,7 @@
       "agency": "LAPD"
     },
     {
-      "id": null,
+      "id": "C26-10884",
       "filed": null,
       "incident": null,
       "claimant": null,
@@ -6442,7 +6466,8 @@
         "insurance-inquiry"
       ],
       "_source_file": "C26-10884.pdf",
-      "agency": "LAPD"
+      "agency": "LAPD",
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-10884.pdf"
     },
     {
       "id": "C26-10885",
@@ -6505,7 +6530,7 @@
       "agency": "LAPD"
     },
     {
-      "id": null,
+      "id": "C26-11000",
       "filed": "2026-01-01",
       "incident": null,
       "claimant": "Aranka Vadasz",
@@ -6530,10 +6555,11 @@
         "pacoima"
       ],
       "_source_file": "C26-11000.pdf",
-      "agency": "LAPD"
+      "agency": "LAPD",
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-11000.pdf"
     },
     {
-      "id": null,
+      "id": "C26-11056",
       "filed": null,
       "incident": "2025-07-24",
       "claimant": "Alissa Guzman",
@@ -6559,7 +6585,8 @@
         "unspecified-incident"
       ],
       "_source_file": "C26-11056.pdf",
-      "agency": "LAPD"
+      "agency": "LAPD",
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-11056.pdf"
     },
     {
       "id": "C26-11110",
@@ -6739,7 +6766,7 @@
       "agency": "LAPD"
     },
     {
-      "id": null,
+      "id": "C26-12053 Gowdy v. City of Los Angeles, et al - Administrative Claim",
       "filed": "2026-02-02",
       "incident": "2025-08-08",
       "claimant": "Nathaniel W. Gowdy",
@@ -6765,7 +6792,8 @@
         "civil rights"
       ],
       "_source_file": "C26-12053 Gowdy v. City of Los Angeles, et al - Administrative Claim.pdf",
-      "agency": "LAPD"
+      "agency": "LAPD",
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-12053 Gowdy v. City of Los Angeles, et al - Administrative Claim.pdf"
     },
     {
       "id": "C26-12053",
@@ -6858,7 +6886,7 @@
       "agency": "LAPD"
     },
     {
-      "id": null,
+      "id": "C26-12439",
       "filed": null,
       "incident": null,
       "claimant": "Adam Walker",
@@ -6884,7 +6912,8 @@
         "detention"
       ],
       "_source_file": "C26-12439.pdf",
-      "agency": "LAPD"
+      "agency": "LAPD",
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-12439.pdf"
     },
     {
       "id": "C26-12547",
@@ -7006,7 +7035,7 @@
       "agency": "LAPD"
     },
     {
-      "id": null,
+      "id": "C26-12749",
       "filed": null,
       "incident": "2025-08-04",
       "claimant": "Onsayo Abram",
@@ -7032,7 +7061,8 @@
         "guns drawn"
       ],
       "_source_file": "C26-12749.pdf",
-      "agency": "LAPD"
+      "agency": "LAPD",
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-12749.pdf"
     },
     {
       "id": "25-3123",
