@@ -1,5 +1,4 @@
 import { useState, useMemo, useRef, useEffect } from "react";
-import { BarChart, Bar, XAxis, YAxis, Tooltip, ResponsiveContainer, Cell } from "recharts";
 
 const SAMPLE_DATA = [
   { id: "C26-03464", filed: "2025-08-14", incident: "2025-05-02", claimant: "Adam Piotr Ledwon", age: 38, sex: "Male", location: "Santa Monica Blvd & Western Ave, Los Angeles, CA 90029", neighborhood: "East Hollywood", type: "Vehicle Collision", narrative: "LAPD vehicle without siren caused an accident and hit a car which then struck claimant.", omission: "LAPD vehicle without siren caused accident", amount: 1000000, amountDisplay: "$1,000,000.00", injuries: "Vehicle total loss; ongoing medical treatment", attorney: "F. Jay Rahimi, Encino", insurance: "National Fire & Marine Insurance Company", officer: null, agency: "LAPD", tags: ["vehicle collision", "no siren", "injury", "personal injury"] },
@@ -331,12 +330,6 @@ export default function App() {
     return r;
   }, [allClaims, selectedType, selectedAgency, search]);
 
-  const chartData = useMemo(() =>
-    Array.from(filtered.reduce((m, c) => { m.set(c.type, (m.get(c.type) || 0) + 1); return m; }, new Map()))
-      .map(([type, count]) => ({ type, count, fullType: type })),
-    [filtered]
-  );
-
   const lapdCount = useMemo(() => allClaims.filter(c => c.agency === "LAPD").length, [allClaims]);
   const lasdCount = useMemo(() => allClaims.filter(c => c.agency === "LASD").length, [allClaims]);
 
@@ -365,24 +358,9 @@ export default function App() {
           ))}
         </div>
 
-        {/* Chart */}
-        <div style={{ background: "#fafafa", border: "1px solid #eee", padding: "16px 18px", marginBottom: 24 }}>
-          <div style={{ fontFamily: "monospace", fontSize: 10, color: "#bbb", letterSpacing: "0.1em", textTransform: "uppercase", marginBottom: 12 }}>Claims by Type {selectedAgency !== "All" ? `· ${selectedAgency}` : ""}</div>
-          <ResponsiveContainer width="100%" height={80}>
-            <BarChart data={chartData} margin={{ top: 0, right: 0, bottom: 0, left: 0 }}>
-              <XAxis dataKey="type" tick={{ fill: "#aaa", fontSize: 10, fontFamily: "monospace" }} axisLine={false} tickLine={false} />
-              <YAxis hide />
-              <Tooltip contentStyle={{ background: "#fff", border: "1px solid #eee", fontFamily: "monospace", fontSize: 11, color: "#111" }} labelFormatter={(_, p) => p?.[0]?.payload?.fullType || ""} formatter={v => [v, "Claims"]} />
-              <Bar dataKey="count" radius={0}>
-                {chartData.map(e => <Cell key={e.type} fill={TYPE_COLORS[e.fullType] || "#ccc"} />)}
-              </Bar>
-            </BarChart>
-          </ResponsiveContainer>
-        </div>
-
         {/* Tabs */}
         <div style={{ display: "flex", borderBottom: "1px solid #eee", marginBottom: 0 }}>
-          {[["browse", "Browse & Filter"], ["ask", "Ask the Data"]].map(([tab, label]) => (
+          {[["ask", "Ask the Data"], ["browse", "Browse & Filter"]].map(([tab, label]) => (
             <button key={tab} onClick={() => setActiveTab(tab)} style={{ background: "none", border: "none", borderBottom: activeTab === tab ? "2px solid #111" : "2px solid transparent", color: activeTab === tab ? "#111" : "#bbb", fontFamily: "monospace", fontSize: 11, letterSpacing: "0.1em", textTransform: "uppercase", padding: "10px 20px", cursor: "pointer", marginBottom: -1 }}>
               {label}
             </button>
@@ -416,11 +394,14 @@ export default function App() {
 
               {/* Type filter */}
               <div style={{ display: "flex", gap: 8, marginBottom: 16, flexWrap: "wrap" }}>
-                {types.map(t => (
-                  <button key={t} onClick={() => { setSelectedType(t); setSelectedClaim(null); }} style={{ background: selectedType === t ? "#111" : "transparent", border: `1px solid ${selectedType === t ? "#111" : "#ddd"}`, color: selectedType === t ? "#fff" : "#999", fontFamily: "monospace", fontSize: 10, letterSpacing: "0.08em", textTransform: "uppercase", padding: "5px 12px", cursor: "pointer" }}>
-                    {t === "All" ? `All Types` : t}
-                  </button>
-                ))}
+                {types.map(t => {
+                  const count = t === "All" ? filtered.length : allClaims.filter(c => c.type === t && (selectedAgency === "All" || c.agency === selectedAgency)).length;
+                  return (
+                    <button key={t} onClick={() => { setSelectedType(t); setSelectedClaim(null); }} style={{ background: selectedType === t ? "#111" : "transparent", border: `1px solid ${selectedType === t ? "#111" : "#ddd"}`, color: selectedType === t ? "#fff" : "#999", fontFamily: "monospace", fontSize: 10, letterSpacing: "0.08em", textTransform: "uppercase", padding: "5px 12px", cursor: "pointer" }}>
+                      {t === "All" ? "All Types" : t} ({count})
+                    </button>
+                  );
+                })}
               </div>
 
               <div style={{ fontFamily: "monospace", fontSize: 10, color: "#bbb", marginBottom: 12 }}>
