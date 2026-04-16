@@ -343,13 +343,9 @@ export default function App() {
   return (
     <div style={{ background: "#fff", minHeight: "100vh", color: "#111", fontFamily: "monospace" }}>
       {/* Hero */}
-      <div style={{ position: "relative", width: "100%", height: 320, overflow: "hidden", background: "#1a1a1a" }}>
-        <img src="/hero.jpg" alt="LAPD officers at a protest in Downtown Los Angeles" style={{ width: "100%", height: "100%", objectFit: "cover", objectPosition: "center 40%", opacity: 0.55 }} />
-        <div style={{ position: "absolute", inset: 0, background: "linear-gradient(to bottom, rgba(0,0,0,0.15) 0%, rgba(0,0,0,0.65) 100%)" }} />
-        <div style={{ position: "absolute", bottom: 0, left: 0, right: 0, padding: "28px 32px" }}>
-          <h1 style={{ fontFamily: "'Georgia', serif", fontSize: 26, fontWeight: 400, color: "#fff", margin: "0 0 8px", letterSpacing: "-0.01em", lineHeight: 1.3 }}>Claims for damages filed against LAPD and LASD</h1>
-          <div style={{ fontFamily: "monospace", fontSize: 10, color: "rgba(255,255,255,0.45)", lineHeight: 1.6 }}>Search hundreds of documents by names, neighborhoods, or keywords. Last updated April 9, 2026.</div>
-        </div>
+      <div style={{ background: "#111", padding: "32px 32px 28px" }}>
+        <h1 style={{ fontFamily: "'Georgia', serif", fontSize: 26, fontWeight: 400, color: "#fff", margin: "0 0 8px", letterSpacing: "-0.01em", lineHeight: 1.3 }}>Claims for damages filed against LAPD and LASD</h1>
+        <div style={{ fontFamily: "monospace", fontSize: 10, color: "rgba(255,255,255,0.45)", lineHeight: 1.6 }}>Search hundreds of documents by names, neighborhoods, or keywords. Last updated April 9, 2026.</div>
       </div>
 
       <div style={{ padding: "24px 32px", maxWidth: 1100, margin: "0 auto" }}>
