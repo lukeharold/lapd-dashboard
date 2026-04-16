@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-09T02:54:30.929308",
+  "generated_at": "2026-04-15T21:37:51.741294",
   "total": 266,
   "claims": [
     {
@@ -2213,35 +2213,6 @@
       ],
       "_source_file": "C26-04116.pdf",
       "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-01106.pdf",
-      "agency": "LAPD"
-    },
-    {
-      "id": "C26-04120",
-      "filed": "2025-08-14",
-      "incident": null,
-      "claimant": "Kelsey McMurtry",
-      "age": null,
-      "sex": null,
-      "location": null,
-      "neighborhood": null,
-      "type": "Other",
-      "narrative": "Claim filed by attorneys Panish Shea Ravipudi LLP on behalf of Kelsey McMurtry against the City of Los Angeles. All substantive details including incident description, location, damages, and amount are contained in attachments not provided.",
-      "omission": null,
-      "amount": null,
-      "amountDisplay": null,
-      "injuries": null,
-      "attorney": "Brian Panish & Nicholas Yoka, Panish Shea Ravipudi LLP, Los Angeles",
-      "insurance": null,
-      "officer": null,
-      "tags": [
-        "attorney-filed",
-        "attachment-referenced",
-        "panish-shea-ravipudi",
-        "redacted-details",
-        "insufficient-information"
-      ],
-      "_source_file": "C26-04120.protest_claim.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-04120.protest_claim.pdf",
       "agency": "LAPD"
     },
     {
@@ -7926,6 +7897,37 @@
       ],
       "_source_file": "public-records-act-responsive-documents-1626 (dragged) 16.pdf",
       "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/25-4266.pdf"
+    },
+    {
+      "id": "C26-04120",
+      "filed": "2025-08-14",
+      "incident": "2025-06-08",
+      "claimant": "Kelsey McMurtry",
+      "age": null,
+      "sex": null,
+      "location": "Downtown Los Angeles",
+      "neighborhood": "Los Angeles",
+      "type": "Use of Force",
+      "narrative": "Claimant required medical treatment after officers struck her with nonlethal projectiles and police batons, and trampled her with their horses during a June 8 protest in Downtown Los Angeles.",
+      "omission": "SEE ATTACHMENT",
+      "amount": null,
+      "amountDisplay": null,
+      "injuries": null,
+      "attorney": "Brian Panish & Nicholas Yoka, Panish Shea Ravipudi LLP, Los Angeles",
+      "insurance": null,
+      "officer": null,
+      "tags": [
+        "use-of-force",
+        "protest",
+        "baton",
+        "nonlethal-projectiles",
+        "horse",
+        "downtown-los-angeles",
+        "panish-shea-ravipudi"
+      ],
+      "_source_file": "C26-04120.protest_claim.pdf",
+      "agency": "LAPD",
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-04120.protest_claim.pdf"
     }
   ]
 }
