@@ -338,7 +338,7 @@ export default function App() {
       {/* Hero */}
       <div style={{ background: "#111", padding: "32px 32px 28px" }}>
         <h1 style={{ fontFamily: "'Georgia', serif", fontSize: 26, fontWeight: 400, color: "#fff", margin: "0 0 8px", letterSpacing: "-0.01em", lineHeight: 1.3 }}>Claims for damages filed against LAPD and LASD</h1>
-        <div style={{ fontFamily: "monospace", fontSize: 10, color: "rgba(255,255,255,0.45)", lineHeight: 1.6 }}>Search hundreds of documents by names, neighborhoods, or keywords. Last updated April 9, 2026.</div>
+        <div style={{ fontFamily: "monospace", fontSize: 10, color: "rgba(255,255,255,0.45)", lineHeight: 1.6 }}>Search hundreds of documents by names, neighborhoods, or keywords. Last updated May 26, 2026.</div>
       </div>
 
       <div style={{ padding: "24px 32px", maxWidth: 1100, margin: "0 auto" }}>
