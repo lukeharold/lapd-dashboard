@@ -2723,7 +2723,7 @@
       "id": "C26-03464",
       "filed": null,
       "incident": "2025-06-08",
-      "claimant": null,
+      "claimant": "Audrey Knox",
       "age": null,
       "sex": "Female",
       "location": "200 N Spring St, Los Angeles, CA 90012",
@@ -2746,7 +2746,7 @@
         "concussion"
       ],
       "_source_file": "C26-04422.protest_claim.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-03464.pdf",
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-04422.protest_claim.pdf",
       "agency": "LAPD"
     },
     {
