@@ -84,8 +84,8 @@ const ClaimDetail = ({ claim, onClose }) => (
       {claim.officer && <Field label="Named Officer" value={claim.officer} highlight />}
     </div>
     <div style={{ borderTop: "1px solid #eee", paddingTop: 14, marginTop: 10 }}>
-      <p style={{ fontFamily: "monospace", fontSize: 10, color: "#bbb", letterSpacing: "0.1em", textTransform: "uppercase", marginBottom: 8 }}>Alleged Act / Omission</p>
-      <p style={{ fontFamily: "'Georgia', serif", fontSize: 14, color: "#222", lineHeight: 1.6, margin: 0 }}>{claim.omission}</p>
+      <p style={{ fontFamily: "monospace", fontSize: 10, color: "#bbb", letterSpacing: "0.1em", textTransform: "uppercase", marginBottom: 8 }}>Narrative</p>
+      <p style={{ fontFamily: "'Georgia', serif", fontSize: 14, color: "#222", lineHeight: 1.6, margin: 0 }}>{claim.narrative}</p>
     </div>
     <div style={{ borderTop: "1px solid #eee", paddingTop: 14, marginTop: 14 }}>
       <p style={{ fontFamily: "monospace", fontSize: 10, color: "#bbb", letterSpacing: "0.1em", textTransform: "uppercase", marginBottom: 8 }}>Injuries / Damages</p>
