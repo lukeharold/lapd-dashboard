@@ -123,7 +123,7 @@ const AISummary = ({ claims }) => {
         method: "POST",
         headers: API_HEADERS,
         body: JSON.stringify({
-          model: "claude-sonnet-4-20250514",
+          model: "claude-sonnet-4-6",
           max_tokens: 1000,
           system: "You are a research assistant summarizing damage claims filed against LAPD and LASD. Report only what is stated on the claim forms. Use neutral, factual language — no adjectives that editorialize or characterize the severity of allegations (e.g. avoid words like troubling, alarming, dramatic, egregious, significant). Return 3–5 short bullet points. Each bullet should state a concrete fact drawn directly from the claims: claim type, location, what was alleged, who was named, amounts requested. Do not draw conclusions or suggest what the data means.",
           messages: [{ role: "user", content: `Summarize the key facts across these ${claims.length} claims:\n\n${claimText}` }]
@@ -182,7 +182,7 @@ const QAPanel = ({ allClaims }) => {
         method: "POST",
         headers: API_HEADERS,
         body: JSON.stringify({
-          model: "claude-sonnet-4-20250514",
+          model: "claude-sonnet-4-6",
           max_tokens: 1000,
           system: buildContext(),
           messages: newMessages
