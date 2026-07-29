@@ -295,6 +295,7 @@ const JsonLoader = ({ onLoad, isLive }) => {
 export default function App() {
   const [allClaims, setAllClaims] = useState([]);
   const [isLive, setIsLive] = useState(false);
+  const [lastUpdated, setLastUpdated] = useState(null);
   const [selectedType, setSelectedType] = useState("All");
   const [selectedAgency, setSelectedAgency] = useState("All");
   const [selectedClaim, setSelectedClaim] = useState(null);
@@ -309,6 +310,10 @@ export default function App() {
         if (Array.isArray(claims) && claims.length > 0) {
           setAllClaims(claims);
           setIsLive(true);
+          if (data.generated_at) {
+            const d = new Date(data.generated_at);
+            setLastUpdated(d.toLocaleDateString("en-US", { month: "long", day: "numeric", year: "numeric" }));
+          }
         } else {
           setAllClaims(SAMPLE_DATA);
         }
@@ -338,7 +343,7 @@ export default function App() {
       {/* Hero */}
       <div style={{ background: "#111", padding: "32px 32px 28px" }}>
         <h1 style={{ fontFamily: "'Georgia', serif", fontSize: 26, fontWeight: 400, color: "#fff", margin: "0 0 8px", letterSpacing: "-0.01em", lineHeight: 1.3 }}>Claims for damages filed against LAPD and LASD</h1>
-        <div style={{ fontFamily: "monospace", fontSize: 10, color: "rgba(255,255,255,0.45)", lineHeight: 1.6 }}>Search hundreds of documents by names, neighborhoods, or keywords. Last updated May 26, 2026.</div>
+        <div style={{ fontFamily: "monospace", fontSize: 10, color: "rgba(255,255,255,0.45)", lineHeight: 1.6 }}>Search hundreds of documents by names, neighborhoods, or keywords. {lastUpdated ? `Last updated ${lastUpdated}.` : "Last updated May 26, 2026."}</div>
       </div>
 
       <div style={{ padding: "24px 32px", maxWidth: 1100, margin: "0 auto" }}>
