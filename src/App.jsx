@@ -354,7 +354,7 @@ export default function App() {
   const toggleRow = (id) => setExpandedId(prev => prev === id ? null : id);
 
   return (
-    <div style={{ background: "#fff", minHeight: "100vh", color: "#111", fontFamily: "monospace" }}>
+    <div style={{ background: "#fff", minHeight: "100vh", color: "#111", fontFamily: "monospace", overflowX: "hidden" }}>
 
       {/* Disclaimer bar */}
       <div style={{ background: "#fff", borderBottom: "1px solid #ddd", padding: "7px 36px" }}>
@@ -366,8 +366,8 @@ export default function App() {
       {/* Dark banner */}
       <div style={{ background: "#111", width: "100%" }}>
         {/* Top tape strip */}
-        <div style={{ background: "#FFD700", borderBottom: "2px solid #c8a800", height: 18, overflow: "hidden", whiteSpace: "nowrap", display: "flex", alignItems: "center" }}>
-          <span style={{ fontFamily: "monospace", fontSize: 7, fontWeight: 900, color: "#111", letterSpacing: "1.5px", paddingLeft: 12 }}>
+        <div style={{ background: "#FFD700", borderBottom: "2px solid #c8a800", height: 18, overflow: "hidden", whiteSpace: "nowrap", display: "flex", alignItems: "center", maxWidth: "100vw" }}>
+          <span style={{ fontFamily: "monospace", fontSize: 7, fontWeight: 900, color: "#111", letterSpacing: "1.5px", paddingLeft: 12, display: "inline-block" }}>
             {"POLICE LINE · DO NOT CROSS · ".repeat(30)}
           </span>
         </div>
@@ -384,8 +384,8 @@ export default function App() {
           </div>
         </div>
         {/* Bottom tape strip */}
-        <div style={{ background: "#FFD700", borderTop: "2px solid #c8a800", height: 18, overflow: "hidden", whiteSpace: "nowrap", display: "flex", alignItems: "center" }}>
-          <span style={{ fontFamily: "monospace", fontSize: 7, fontWeight: 900, color: "#111", letterSpacing: "1.5px", paddingLeft: 180 }}>
+        <div style={{ background: "#FFD700", borderTop: "2px solid #c8a800", height: 18, overflow: "hidden", whiteSpace: "nowrap", display: "flex", alignItems: "center", maxWidth: "100vw" }}>
+          <span style={{ fontFamily: "monospace", fontSize: 7, fontWeight: 900, color: "#111", letterSpacing: "1.5px", paddingLeft: 180, display: "inline-block" }}>
             {"POLICE LINE · DO NOT CROSS · ".repeat(30)}
           </span>
         </div>
