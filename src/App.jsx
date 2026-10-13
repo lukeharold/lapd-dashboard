@@ -369,7 +369,7 @@ export default function App() {
           <div style={{ display: "flex", alignItems: "center", gap: 18, marginBottom: 4 }}>
             <SirenMark />
             <div style={{ maxWidth: 620 }}>
-              <div style={{ fontFamily: "'Playfair Display', Georgia, serif", fontSize: "clamp(15px, 2vw, 26px)", fontWeight: 900, color: "#111", lineHeight: 1.2, letterSpacing: "-0.01em" }}>
+              <div style={{ fontFamily: "'Barlow Condensed', 'Arial Narrow', sans-serif", fontSize: "clamp(15px, 2vw, 26px)", fontWeight: 900, color: "#111", lineHeight: 1.2, letterSpacing: "-0.01em" }}>
                 Claims for damages alleging negligence and other abuse of force by the Los Angeles Police Department and Los Angeles County Sheriff's Department
               </div>
             </div>
