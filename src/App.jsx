@@ -368,14 +368,9 @@ export default function App() {
           {/* Logo + Title */}
           <div style={{ display: "flex", alignItems: "center", gap: 18, marginBottom: 4 }}>
             <SirenMark />
-            <div>
-              <div style={{ fontFamily: "'Oswald', sans-serif", fontSize: "clamp(13px, 1.6vw, 20px)", fontWeight: 400, color: "#777", letterSpacing: "0.08em", textTransform: "uppercase", lineHeight: 1, marginBottom: 5 }}>
-                Claims for Damages
-              </div>
-              <div style={{ fontFamily: "'Oswald', sans-serif", fontSize: "clamp(16px, 2.4vw, 30px)", fontWeight: 700, color: "#111", letterSpacing: "0.02em", textTransform: "uppercase", whiteSpace: "nowrap", lineHeight: 1.1 }}>
-                <span style={{ color: "#1452a3" }}>Los Angeles Police Department</span>
-                <span style={{ color: "#bbb", fontWeight: 300, margin: "0 10px", fontSize: "0.7em" }}>&amp;</span>
-                <span style={{ color: "#c1001f" }}>Los Angeles Sheriff's Department</span>
+            <div style={{ maxWidth: 620 }}>
+              <div style={{ fontFamily: "'Playfair Display', Georgia, serif", fontSize: "clamp(15px, 2vw, 26px)", fontWeight: 900, color: "#111", lineHeight: 1.2, letterSpacing: "-0.01em" }}>
+                Claims for damages alleging negligence and other abuse of force by the Los Angeles Police Department and Los Angeles County Sheriff's Department
               </div>
             </div>
           </div>
