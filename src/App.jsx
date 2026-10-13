@@ -23,8 +23,8 @@ const SirenMark = () => (
       <clipPath id="t2c"><rect x="-100" y="26" width="300" height="14" transform="rotate(-38,36,40)"/></clipPath>
     </defs>
 
-    {/* Background */}
-    <rect width="72" height="80" fill="#f5f2ec"/>
+    {/* Background — transparent so dark banner shows through */}
+    <rect width="72" height="80" fill="#111"/>
 
     {/* Tape strip 1: \ */}
     <g clipPath="url(#t1c)">
@@ -356,38 +356,55 @@ export default function App() {
   return (
     <div style={{ background: "#fff", minHeight: "100vh", color: "#111", fontFamily: "monospace" }}>
 
-      {/* Masthead */}
-      <div style={{ borderBottom: "3px solid #111", padding: "18px 36px 16px" }}>
-        <div style={{ maxWidth: 1200, margin: "0 auto" }}>
-          {/* Dateline row */}
-          <div style={{ marginBottom: 12 }}>
-            <p style={{ fontFamily: "monospace", fontSize: 9, color: "#666", letterSpacing: "0.05em", margin: 0, lineHeight: 1.6 }}>
-              Source: Obtained via California Public Records Act requests · Edited by Luke Harold · Coding and entries written by Claude · The documents contain allegations; some claims may not yet have been adjudicated or otherwise settled. Dollar amounts shown reflect only what each claimant has requested. Actual amounts paid out, if any, may differ significantly.
-            </p>
-          </div>
-          {/* Logo + Title */}
-          <div style={{ display: "flex", alignItems: "center", gap: 18, marginBottom: 4 }}>
-            <SirenMark />
-            <div style={{ maxWidth: 620 }}>
-              <div style={{ fontFamily: "'Barlow Condensed', 'Arial Narrow', sans-serif", fontSize: "clamp(15px, 2vw, 26px)", fontWeight: 900, color: "#111", lineHeight: 1.2, letterSpacing: "-0.01em" }}>
-                Claims for damages alleging negligence and other abuse of force by the Los Angeles Police Department and Los Angeles County Sheriff's Department
-              </div>
+      {/* Disclaimer bar */}
+      <div style={{ background: "#fff", borderBottom: "1px solid #ddd", padding: "7px 36px" }}>
+        <p style={{ maxWidth: 1200, margin: "0 auto", fontFamily: "monospace", fontSize: 9, color: "#666", letterSpacing: "0.05em", lineHeight: 1.6 }}>
+          Source: Obtained via California Public Records Act requests · Edited by Luke Harold · Coding and entries written by Claude · The documents contain allegations; some claims may not yet have been adjudicated or otherwise settled. Dollar amounts shown reflect only what each claimant has requested. Actual amounts paid out, if any, may differ significantly.
+        </p>
+      </div>
+
+      {/* Dark banner */}
+      <div style={{ background: "#111", width: "100%" }}>
+        {/* Top tape strip */}
+        <div style={{ background: "#FFD700", borderBottom: "2px solid #c8a800", height: 18, overflow: "hidden", whiteSpace: "nowrap", display: "flex", alignItems: "center" }}>
+          <span style={{ fontFamily: "monospace", fontSize: 7, fontWeight: 900, color: "#111", letterSpacing: "1.5px", paddingLeft: 12 }}>
+            {"POLICE LINE · DO NOT CROSS · ".repeat(30)}
+          </span>
+        </div>
+        {/* Logo + headline */}
+        <div style={{ maxWidth: 1200, margin: "0 auto", padding: "20px 36px 22px", display: "flex", alignItems: "center", gap: 28 }}>
+          <SirenMark />
+          <div style={{ flex: 1, minWidth: 0 }}>
+            <div style={{ fontFamily: "monospace", fontSize: 9, letterSpacing: "0.18em", textTransform: "uppercase", color: "#FFD700", marginBottom: 6 }}>
+              32north.news · Investigation
+            </div>
+            <div style={{ fontFamily: "'Barlow Condensed', 'Arial Narrow', sans-serif", fontSize: "clamp(18px, 2.8vw, 38px)", fontWeight: 800, color: "#f2f0ec", lineHeight: 1.1, letterSpacing: "-0.01em" }}>
+              Claims for damages alleging negligence and other abuse of force by the Los Angeles Police Department and Los Angeles County Sheriff's Department
             </div>
           </div>
-          {/* Stat strip */}
-          <div style={{ display: "flex", gap: 0, marginTop: 14, borderTop: "1px solid #111", borderBottom: "1px solid #ddd" }}>
-            {[
-              { label: "Total claims", value: allClaims.length },
-              { label: "LAPD",         value: lapdCount },
-              { label: "LASD",         value: lasdCount },
-              { label: "Officers named", value: allClaims.filter(c => c.officer).length },
-            ].map((s, i) => (
-              <div key={s.label} style={{ padding: "8px 20px 8px 0", marginRight: 20, borderRight: i < 3 ? "1px solid #ddd" : "none", paddingRight: i < 3 ? 20 : 0 }}>
-                <span style={{ fontFamily: "monospace", fontSize: 18, fontWeight: 700, color: "#111" }}>{s.value}</span>
-                <span style={{ fontFamily: "monospace", fontSize: 9, color: "#555", fontWeight: 500, letterSpacing: "0.1em", textTransform: "uppercase", marginLeft: 7 }}>{s.label}</span>
-              </div>
-            ))}
-          </div>
+        </div>
+        {/* Bottom tape strip */}
+        <div style={{ background: "#FFD700", borderTop: "2px solid #c8a800", height: 18, overflow: "hidden", whiteSpace: "nowrap", display: "flex", alignItems: "center" }}>
+          <span style={{ fontFamily: "monospace", fontSize: 7, fontWeight: 900, color: "#111", letterSpacing: "1.5px", paddingLeft: 180 }}>
+            {"POLICE LINE · DO NOT CROSS · ".repeat(30)}
+          </span>
+        </div>
+      </div>
+
+      {/* Stat strip */}
+      <div style={{ background: "#fff", borderBottom: "1px solid #ddd", padding: "0 36px" }}>
+        <div style={{ maxWidth: 1200, margin: "0 auto", display: "flex", gap: 0 }}>
+          {[
+            { label: "Total claims", value: allClaims.length },
+            { label: "LAPD",         value: lapdCount },
+            { label: "LASD",         value: lasdCount },
+            { label: "Officers named", value: allClaims.filter(c => c.officer).length },
+          ].map((s, i) => (
+            <div key={s.label} style={{ padding: "8px 20px 8px 0", marginRight: 20, borderRight: i < 3 ? "1px solid #ddd" : "none", paddingRight: i < 3 ? 20 : 0 }}>
+              <span style={{ fontFamily: "monospace", fontSize: 18, fontWeight: 700, color: "#111" }}>{s.value}</span>
+              <span style={{ fontFamily: "monospace", fontSize: 9, color: "#555", fontWeight: 500, letterSpacing: "0.1em", textTransform: "uppercase", marginLeft: 7 }}>{s.label}</span>
+            </div>
+          ))}
         </div>
       </div>
 
