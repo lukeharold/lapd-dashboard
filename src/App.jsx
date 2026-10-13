@@ -452,21 +452,22 @@ export default function App() {
             <table style={{ width: "100%", borderCollapse: "collapse", borderTop: "2px solid #111", tableLayout: "fixed" }}>
               <colgroup>
                 <col style={{ width: 100 }} />
+                <col style={{ width: 160 }} />
                 <col style={{ width: 72 }} />
-                <col style={{ width: 200 }} />
-                <col style={{ width: 150 }} />
+                <col style={{ width: 180 }} />
+                <col style={{ width: 140 }} />
                 <col />
               </colgroup>
               <thead>
                 <tr style={{ borderBottom: "1px solid #111" }}>
-                  {["Filed", "Agency", "Type", "Neighborhood", "Narrative"].map(h => (
+                  {["Incident", "Claimant", "Agency", "Type", "Neighborhood", "Narrative"].map(h => (
                     <th key={h} style={{ fontFamily: "monospace", fontSize: 9, letterSpacing: "0.12em", textTransform: "uppercase", color: "#555", fontWeight: 600, textAlign: "left", padding: "6px 12px 6px 0", whiteSpace: "nowrap" }}>{h}</th>
                   ))}
                 </tr>
               </thead>
               <tbody>
                 {filtered.length === 0 && (
-                  <tr><td colSpan={5} style={{ fontFamily: "monospace", fontSize: 12, color: "#999", padding: "20px 0" }}>No records match your filters.</td></tr>
+                  <tr><td colSpan={6} style={{ fontFamily: "monospace", fontSize: 12, color: "#999", padding: "20px 0" }}>No records match your filters.</td></tr>
                 )}
                 {filtered.map((c, i) => {
                   const expanded = expandedId === c.id;
@@ -480,7 +481,8 @@ export default function App() {
                         cursor: "pointer",
                       }}
                     >
-                      <td style={{ fontFamily: "monospace", fontSize: 11, color: "#444", fontWeight: 500, padding: "10px 12px 10px 0", whiteSpace: "nowrap", verticalAlign: "middle" }}>{c.filed}</td>
+                      <td style={{ fontFamily: "monospace", fontSize: 11, color: "#444", fontWeight: 500, padding: "10px 12px 10px 0", whiteSpace: "nowrap", verticalAlign: "middle" }}>{c.incident}</td>
+                      <td style={{ fontFamily: "monospace", fontSize: 11, color: "#444", fontWeight: 500, padding: "10px 12px 10px 0", whiteSpace: "nowrap", overflow: "hidden", textOverflow: "ellipsis", verticalAlign: "middle" }}>{c.claimant}</td>
                       <td style={{ padding: "10px 12px 10px 0", whiteSpace: "nowrap", verticalAlign: "middle" }}><AgencyPill agency={c.agency} /></td>
                       <td style={{ padding: "10px 12px 10px 0", verticalAlign: "middle", overflow: "hidden" }}><TypeLabel type={c.type} /></td>
                       <td style={{ fontFamily: "monospace", fontSize: 11, color: "#444", fontWeight: 500, padding: "10px 12px 10px 0", whiteSpace: "nowrap", overflow: "hidden", textOverflow: "ellipsis", verticalAlign: "middle" }}>{c.neighborhood}</td>
