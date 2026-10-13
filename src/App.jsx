@@ -358,7 +358,7 @@ export default function App() {
 
       {/* Disclaimer bar */}
       <div style={{ background: "#fff", borderBottom: "1px solid #ddd", padding: "7px 20px" }}>
-        <p style={{ maxWidth: 1200, margin: "0 auto", fontFamily: "monospace", fontSize: 9, color: "#666", letterSpacing: "0.05em", lineHeight: 1.6 }}>
+        <p style={{ maxWidth: 1400, margin: "0 auto", fontFamily: "monospace", fontSize: 9, color: "#666", letterSpacing: "0.05em", lineHeight: 1.6 }}>
           Source: Obtained via California Public Records Act requests · Edited by Luke Harold · Coding and entries written by Claude · The documents contain allegations; some claims may not yet have been adjudicated or otherwise settled. Dollar amounts shown reflect only what each claimant has requested. Actual amounts paid out, if any, may differ significantly.
         </p>
       </div>
@@ -372,7 +372,7 @@ export default function App() {
           </span>
         </div>
         {/* Logo + headline */}
-        <div style={{ maxWidth: 1200, margin: "0 auto", padding: "20px 20px 22px", display: "flex", alignItems: "center", gap: 28 }}>
+        <div style={{ maxWidth: 1400, margin: "0 auto", padding: "20px 20px 22px", display: "flex", alignItems: "center", gap: 28 }}>
           <SirenMark />
           <div style={{ flex: 1, minWidth: 0 }}>
             <div style={{ fontFamily: "monospace", fontSize: 9, letterSpacing: "0.18em", textTransform: "uppercase", color: "#FFD700", marginBottom: 6 }}>
@@ -393,7 +393,7 @@ export default function App() {
 
       {/* Stat strip */}
       <div style={{ background: "#fff", borderBottom: "1px solid #ddd", padding: "0 20px" }}>
-        <div style={{ maxWidth: 1200, margin: "0 auto", display: "flex", gap: 0 }}>
+        <div style={{ maxWidth: 1400, margin: "0 auto", display: "flex", gap: 0 }}>
           {[
             { label: "Total claims", value: allClaims.length },
             { label: "LAPD",         value: lapdCount },
@@ -408,7 +408,7 @@ export default function App() {
         </div>
       </div>
 
-      <div style={{ maxWidth: 1200, margin: "0 auto", padding: "0 20px" }}>
+      <div style={{ maxWidth: 1400, margin: "0 auto", padding: "0 20px" }}>
 
         {/* Tab nav */}
         <div style={{ display: "flex", borderBottom: "1px solid #ddd", marginBottom: 0 }}>
