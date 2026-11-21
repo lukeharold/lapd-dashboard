@@ -1348,7 +1348,7 @@
       "agency": "LAPD"
     },
     {
-      "id": "C26-03464",
+      "id": "C27-04802",
       "filed": "2025-08-14",
       "incident": "2025-05-02",
       "claimant": "Adam Piotr Ledwon",
@@ -1374,7 +1374,7 @@
         "medical-treatment"
       ],
       "_source_file": "C26-03464.pdf",
-      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C26-03464.pdf",
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C27-04802.pdf",
       "agency": "LAPD"
     },
     {
@@ -16214,7 +16214,7 @@
       "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C27-02193.pdf"
     },
     {
-      "id": "C27-03661",
+      "id": "C27-03611",
       "filed": "2026-10-01",
       "incident": "2026-04-15",
       "claimant": "Qingqing Song",
@@ -16240,7 +16240,8 @@
         "public-accommodation"
       ],
       "_source_file": "C27-03611.pdf",
-      "agency": "LAPD"
+      "agency": "LAPD",
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C27-03611.pdf"
     },
     {
       "id": "C27-03702",
@@ -16269,7 +16270,8 @@
         "valley-village"
       ],
       "_source_file": "C27-03702.pdf",
-      "agency": "LAPD"
+      "agency": "LAPD",
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C27-03702.pdf"
     },
     {
       "id": "C27-03741",
@@ -16298,7 +16300,8 @@
         "mission division"
       ],
       "_source_file": "C27-03741.pdf",
-      "agency": "LAPD"
+      "agency": "LAPD",
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C27-03741.pdf"
     },
     {
       "id": "C27-03884",
@@ -16327,7 +16330,8 @@
         "civil-rights"
       ],
       "_source_file": "C27-03884.pdf",
-      "agency": "LAPD"
+      "agency": "LAPD",
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C27-03884.pdf"
     },
     {
       "id": "C27-03901",
@@ -16354,7 +16358,8 @@
         "details-in-attachment"
       ],
       "_source_file": "C27-03901.pdf",
-      "agency": "LAPD"
+      "agency": "LAPD",
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C27-03901.pdf"
     },
     {
       "id": "C27-03946",
@@ -16383,7 +16388,8 @@
         "postmortem-fraud"
       ],
       "_source_file": "C27-03946.pdf",
-      "agency": "LAPD"
+      "agency": "LAPD",
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C27-03946.pdf"
     },
     {
       "id": "C27-04004",
@@ -16412,7 +16418,8 @@
         "passport"
       ],
       "_source_file": "C27-04004.pdf",
-      "agency": "LAPD"
+      "agency": "LAPD",
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C27-04004.pdf"
     },
     {
       "id": "C27-04064",
@@ -16441,7 +16448,8 @@
         "administrative error"
       ],
       "_source_file": "C27-04064.pdf",
-      "agency": "LAPD"
+      "agency": "LAPD",
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C27-04064.pdf"
     },
     {
       "id": "C27-04170",
@@ -16470,7 +16478,8 @@
         "reimbursement"
       ],
       "_source_file": "C27-04170.pdf",
-      "agency": "LAPD"
+      "agency": "LAPD",
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C27-04170.pdf"
     },
     {
       "id": "C27-04177",
@@ -16498,7 +16507,8 @@
         "police-inaction"
       ],
       "_source_file": "C27-04177.pdf",
-      "agency": "LAPD"
+      "agency": "LAPD",
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C27-04177.pdf"
     },
     {
       "id": "C27-04244",
@@ -16526,7 +16536,8 @@
         "home invasion"
       ],
       "_source_file": "C27-04244.pdf",
-      "agency": "LAPD"
+      "agency": "LAPD",
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C27-04244.pdf"
     },
     {
       "id": "C27-04248",
@@ -16555,7 +16566,8 @@
         "lapd"
       ],
       "_source_file": "C27-04248.pdf",
-      "agency": "LAPD"
+      "agency": "LAPD",
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C27-04248.pdf"
     },
     {
       "id": "C27-04259",
@@ -16584,7 +16596,8 @@
         "wilshire division"
       ],
       "_source_file": "C27-04259.pdf",
-      "agency": "LAPD"
+      "agency": "LAPD",
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C27-04259.pdf"
     },
     {
       "id": "C27-04274",
@@ -16613,7 +16626,8 @@
         "hollywood"
       ],
       "_source_file": "C27-04274.pdf",
-      "agency": "LAPD"
+      "agency": "LAPD",
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C27-04274.pdf"
     },
     {
       "id": "C27-04278",
@@ -16642,7 +16656,8 @@
         "evidence preservation"
       ],
       "_source_file": "C27-04278.pdf",
-      "agency": "LAPD"
+      "agency": "LAPD",
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C27-04278.pdf"
     },
     {
       "id": "C27-04295",
@@ -16671,7 +16686,8 @@
         "baseball-bat"
       ],
       "_source_file": "C27-04295.pdf",
-      "agency": "LAPD"
+      "agency": "LAPD",
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C27-04295.pdf"
     },
     {
       "id": "C27-04388",
@@ -16700,7 +16716,8 @@
         "public camping"
       ],
       "_source_file": "C27-04388.pdf",
-      "agency": "LAPD"
+      "agency": "LAPD",
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C27-04388.pdf"
     },
     {
       "id": "C27-04498",
@@ -16729,7 +16746,8 @@
         "ptsd"
       ],
       "_source_file": "C27-04498.pdf",
-      "agency": "LAPD"
+      "agency": "LAPD",
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C27-04498.pdf"
     },
     {
       "id": "C27-04609",
@@ -16758,7 +16776,8 @@
         "psychiatric detention"
       ],
       "_source_file": "C27-04609.pdf",
-      "agency": "LAPD"
+      "agency": "LAPD",
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C27-04609.pdf"
     },
     {
       "id": "C27-04611",
@@ -16786,7 +16805,8 @@
         "property"
       ],
       "_source_file": "C27-04611.pdf",
-      "agency": "LAPD"
+      "agency": "LAPD",
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C27-04611.pdf"
     },
     {
       "id": "C27-04759",
@@ -16815,7 +16835,8 @@
         "first amendment"
       ],
       "_source_file": "C27-04759.pdf",
-      "agency": "LAPD"
+      "agency": "LAPD",
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C27-04759.pdf"
     },
     {
       "id": "C27-04763",
@@ -16844,7 +16865,8 @@
         "tarzana"
       ],
       "_source_file": "C27-04763.pdf",
-      "agency": "LAPD"
+      "agency": "LAPD",
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C27-04763.pdf"
     },
     {
       "id": "C27-04789",
@@ -16873,7 +16895,8 @@
         "family-incident"
       ],
       "_source_file": "C27-04789.pdf",
-      "agency": "LAPD"
+      "agency": "LAPD",
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C27-04789.pdf"
     },
     {
       "id": "C27-04802",
@@ -16902,7 +16925,8 @@
         "conduct"
       ],
       "_source_file": "C27-04802.pdf",
-      "agency": "LAPD"
+      "agency": "LAPD",
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C27-04802.pdf"
     },
     {
       "id": "C27-04828",
@@ -16929,7 +16953,8 @@
         "2022"
       ],
       "_source_file": "C27-04828.pdf",
-      "agency": "LAPD"
+      "agency": "LAPD",
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C27-04828.pdf"
     },
     {
       "id": "C27-04856",
@@ -16957,7 +16982,8 @@
         "injury"
       ],
       "_source_file": "C27-04856.pdf",
-      "agency": "LAPD"
+      "agency": "LAPD",
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C27-04856.pdf"
     },
     {
       "id": "C27-04948",
@@ -16986,7 +17012,8 @@
         "police-misconduct"
       ],
       "_source_file": "C27-04948.pdf",
-      "agency": "LAPD"
+      "agency": "LAPD",
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C27-04948.pdf"
     },
     {
       "id": "C27-04950",
@@ -17015,7 +17042,8 @@
         "valley-village"
       ],
       "_source_file": "C27-04950.pdf",
-      "agency": "LAPD"
+      "agency": "LAPD",
+      "pdf_url": "https://pub-2649f1f40fb8463ea964c1c12a499854.r2.dev/C27-04950.pdf"
     }
   ]
 }
